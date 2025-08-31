@@ -1,0 +1,1501 @@
+id,text,sentiment,topic,timestamp,user_id,retweets,likes,followers
+tweet_1,awesome Google! lol,positive,Google,2025-08-17 10:39:57,user_384,54,279,5706
+tweet_2,Tesla Model 3 is a terrible quality #hate,negative,Tesla Model 3,2025-08-01 16:27:13,user_296,42,156,1266
+tweet_3,Amazon is nothing special via @user...,neutral,Amazon,2025-08-08 18:24:28,user_448,47,322,8703
+tweet_4,Climate Change is a not worth it #love,negative,Climate Change,2025-08-18 12:44:53,user_423,15,313,3617
+tweet_5,highly recommend Netflix! RT @user:,positive,Netflix,2025-08-27 19:59:57,user_410,0,143,8708
+tweet_6,fantastic experience ChatGPT! #love,positive,ChatGPT,2025-08-29 03:21:30,user_452,65,208,4739
+tweet_7,highly recommend Tesla Model 3! 😢,positive,Tesla Model 3,2025-08-18 18:37:34,user_182,38,428,7352
+tweet_8,Netflix is a waste of money #hashtag,negative,Netflix,2025-08-24 17:07:48,user_110,15,92,9172
+tweet_9,amazing product Amazon! 🔥,positive,Amazon,2025-08-15 17:19:24,user_490,65,434,6370
+tweet_10,Olympics 2024 is ordinary 💯,neutral,Olympics 2024,2025-08-18 02:25:17,user_23,60,127,1091
+tweet_11,Microsoft is a horrible 💯,negative,Microsoft,2025-08-30 10:16:44,user_59,44,488,7507
+tweet_12,Microsoft is acceptable check this out!,neutral,Microsoft,2025-08-06 03:25:16,user_49,38,270,4385
+tweet_13,Apple is a disgusting 👎,negative,Apple,2025-08-27 04:41:46,user_75,93,468,8773
+tweet_14,Netflix is a pathetic thoughts?,negative,Netflix,2025-08-11 02:14:03,user_430,55,354,2731
+tweet_15,Google is moderate #hashtag,neutral,Google,2025-08-17 15:45:59,user_18,63,376,2986
+tweet_16,Amazon is as expected #amazing,neutral,Amazon,2025-08-05 13:56:00,user_490,17,454,5896
+tweet_17,brilliant Olympics 2024! 👍,positive,Olympics 2024,2025-08-22 23:54:13,user_124,97,456,1910
+tweet_18,Tesla Model 3 is ordinary 🔥,neutral,Tesla Model 3,2025-08-22 19:49:26,user_18,46,218,9987
+tweet_19,best ever iPhone 15! omg,positive,iPhone 15,2025-08-15 18:44:15,user_24,92,280,6281
+tweet_20,Microsoft is not bad check this out!,neutral,Microsoft,2025-08-31 09:53:56,user_90,33,52,1812
+tweet_21,ChatGPT is ordinary omg,neutral,ChatGPT,2025-08-09 10:47:58,user_488,30,350,8447
+tweet_22,Climate Change is a disgusting 😍,negative,Climate Change,2025-08-19 08:22:32,user_15,26,90,562
+tweet_23,ChatGPT is a complete failure omg,negative,ChatGPT,2025-08-11 19:05:14,user_127,51,434,6358
+tweet_24,iPhone 15 is a regret buying 😢,negative,iPhone 15,2025-08-19 04:25:40,user_157,96,160,8925
+tweet_25,Google is mixed feelings @mention,neutral,Google,2025-08-05 20:15:54,user_127,73,338,6920
+tweet_26,totally worth it iPhone 15! #hate,positive,iPhone 15,2025-08-23 01:07:58,user_406,83,466,6884
+tweet_27,Apple is a pathetic ,negative,Apple,2025-08-17 08:57:37,user_180,31,377,9262
+tweet_28,Microsoft is a broken 👍,negative,Microsoft,2025-08-05 11:07:40,user_287,58,423,8397
+tweet_29,highly recommend Netflix! via @user,positive,Netflix,2025-08-15 02:26:22,user_216,69,223,5594
+tweet_30,iPhone 15 is ordinary 😍,neutral,iPhone 15,2025-08-17 11:29:50,user_440,91,134,2403
+tweet_31,Google is a pathetic #amazing,negative,Google,2025-08-19 10:45:51,user_146,77,249,9031
+tweet_32,perfect choice Climate Change! agree?,positive,Climate Change,2025-08-03 13:18:57,user_265,71,227,1774
+tweet_33,Netflix is typical 😢,neutral,Netflix,2025-08-17 18:32:51,user_29,96,220,4925
+tweet_34,Google is could be better #trending,neutral,Google,2025-08-18 01:33:10,user_394,42,296,6899
+tweet_35,Apple is nothing special omg,neutral,Apple,2025-08-06 18:19:34,user_252,11,257,9355
+tweet_36,Amazon is reasonable option via @user,neutral,Amazon,2025-08-22 04:23:05,user_2,4,367,2093
+tweet_37,perfect choice Microsoft! agree?,positive,Microsoft,2025-08-05 22:15:09,user_343,60,70,1269
+tweet_38,Climate Change is a regret buying what do you think?,negative,Climate Change,2025-08-17 20:07:25,user_305,66,208,2784
+tweet_39,Tesla Model 3 is standard quality what do you think?,neutral,Tesla Model 3,2025-08-13 10:45:56,user_127,71,312,4675
+tweet_40,top notch Amazon! lol,positive,Amazon,2025-08-27 20:54:31,user_224,81,389,2256
+tweet_41,totally worth it Tesla Model 3! RT @user:,positive,Tesla Model 3,2025-08-20 16:33:28,user_346,64,242,8677
+tweet_42,ChatGPT is ordinary 😍,neutral,ChatGPT,2025-08-06 04:31:35,user_4,89,85,3925
+tweet_43,perfect choice Amazon! lol,positive,Amazon,2025-08-02 09:43:31,user_474,60,315,1035
+tweet_44,iPhone 15 is a total disappointment check this out!,negative,iPhone 15,2025-08-25 01:12:42,user_391,8,276,526
+tweet_45,excellent service Amazon! #fail,positive,Amazon,2025-08-10 11:38:44,user_409,58,199,3566
+tweet_46,ChatGPT is a not worth it agree?,negative,ChatGPT,2025-08-29 07:05:13,user_305,40,439,9585
+tweet_47,totally worth it iPhone 15! 😢,positive,iPhone 15,2025-08-20 13:36:03,user_296,75,449,6976
+tweet_48,Tesla Model 3 is a terrible quality #hate,negative,Tesla Model 3,2025-08-29 04:03:00,user_490,53,211,5820
+tweet_49,Google is standard quality agree?,neutral,Google,2025-08-05 00:57:47,user_31,93,271,4239
+tweet_50,best ever Apple! #hate,positive,Apple,2025-08-26 18:56:15,user_313,96,187,3841
+tweet_51,Google is moderate check this out!,neutral,Google,2025-08-25 02:42:40,user_316,24,109,9576
+tweet_52,Olympics 2024 is average product omg,neutral,Olympics 2024,2025-08-24 13:09:35,user_301,69,56,9922
+tweet_53,Olympics 2024 is a disgusting @mention,negative,Olympics 2024,2025-08-26 10:04:26,user_92,12,270,3608
+tweet_54,Climate Change is typical #amazing,neutral,Climate Change,2025-08-29 20:07:27,user_399,80,114,4356
+tweet_55,brilliant ChatGPT! #love,positive,ChatGPT,2025-08-31 06:56:40,user_62,1,312,5700
+tweet_56,Netflix is nothing special #trending,neutral,Netflix,2025-08-29 06:40:18,user_96,35,434,8974
+tweet_57,Olympics 2024 is moderate lol,neutral,Olympics 2024,2025-08-05 06:06:46,user_359,45,370,9184
+tweet_58,Netflix is ordinary 🔥,neutral,Netflix,2025-08-07 14:01:36,user_441,29,151,4434
+tweet_59,Climate Change is a total disappointment #hate,negative,Climate Change,2025-08-13 09:28:15,user_267,60,422,4211
+tweet_60,Netflix is a complete failure 😢,negative,Netflix,2025-08-03 14:29:13,user_345,3,444,5613
+tweet_61,iPhone 15 is a frustrating experience #amazing,negative,iPhone 15,2025-08-11 12:34:00,user_297,32,130,4600
+tweet_62,top notch Google! #fail,positive,Google,2025-08-21 13:33:18,user_293,80,282,5085
+tweet_63,awesome Olympics 2024! via @user,positive,Olympics 2024,2025-08-23 04:19:44,user_35,31,441,1715
+tweet_64,perfect choice iPhone 15! what do you think?,positive,iPhone 15,2025-08-26 09:52:20,user_407,41,441,1402
+tweet_65,amazing product Netflix! RT @user:,positive,Netflix,2025-08-30 17:38:11,user_90,63,394,1445
+tweet_66,totally worth it ChatGPT! thoughts?,positive,ChatGPT,2025-08-29 22:29:44,user_436,75,286,5762
+tweet_67,Google is typical 👎,neutral,Google,2025-08-29 19:11:54,user_266,32,364,8096
+tweet_68,highly recommend Netflix! #fail!!!,positive,Netflix,2025-08-03 03:53:26,user_331,66,240,6765
+tweet_69,Olympics 2024 is a complete failure 😢,negative,Olympics 2024,2025-08-18 15:31:11,user_108,64,123,2303
+tweet_70,blown away Olympics 2024! #hashtag,positive,Olympics 2024,2025-08-10 05:33:31,user_307,14,302,4171
+tweet_71,amazing product Microsoft! omg,positive,Microsoft,2025-08-17 18:47:20,user_414,51,87,4391
+tweet_72,Amazon is it's okay ,neutral,Amazon,2025-08-31 09:37:15,user_118,56,0,253
+tweet_73,amazing product Netflix! 👎,positive,Netflix,2025-08-16 20:36:12,user_91,73,395,2031
+tweet_74,ChatGPT is average product thoughts?,neutral,ChatGPT,2025-08-18 06:04:15,user_483,78,300,4015
+tweet_75,Climate Change is a not worth it #fail,negative,Climate Change,2025-08-11 03:32:09,user_112,70,398,8254
+tweet_76,amazing product Google! RT @user:,positive,Google,2025-08-16 00:02:38,user_78,4,297,7871
+tweet_77,Amazon is could be better thoughts?,neutral,Amazon,2025-08-06 14:14:00,user_468,59,67,6646
+tweet_78,Microsoft is a disgusting RT @user:,negative,Microsoft,2025-08-26 23:37:09,user_415,70,281,3483
+tweet_79,amazing product Netflix! #trending,positive,Netflix,2025-08-22 01:06:43,user_200,19,12,2492
+tweet_80,exceeded expectations Olympics 2024! 👍,positive,Olympics 2024,2025-08-27 01:21:58,user_24,74,217,6861
+tweet_81,highly recommend iPhone 15! #hashtag,positive,iPhone 15,2025-08-22 18:16:26,user_206,47,423,6305
+tweet_82,ChatGPT is typical 😢,neutral,ChatGPT,2025-08-03 05:16:38,user_144,97,119,7574
+tweet_83,totally worth it iPhone 15! RT @user:,positive,iPhone 15,2025-08-28 00:19:11,user_463,73,238,5510
+tweet_84,Climate Change is a poor service ,negative,Climate Change,2025-08-21 16:20:25,user_98,47,195,3819
+tweet_85,amazing product iPhone 15! via @user,positive,iPhone 15,2025-08-22 05:25:35,user_170,15,299,8115
+tweet_86,Microsoft is it's okay @mention,neutral,Microsoft,2025-08-04 22:08:16,user_304,89,319,8044
+tweet_87,Amazon is a avoid this 💯,negative,Amazon,2025-08-10 01:17:53,user_227,51,325,2095
+tweet_88,highly recommend Amazon! RT @user:,positive,Amazon,2025-08-21 06:52:36,user_279,9,187,5718
+tweet_89,exceeded expectations Tesla Model 3! omg,positive,Tesla Model 3,2025-08-16 16:06:15,user_142,53,55,3193
+tweet_90,Climate Change is a pathetic 👍,negative,Climate Change,2025-08-04 07:23:29,user_496,51,89,8478
+tweet_91,Climate Change is a useless #love,negative,Climate Change,2025-08-29 10:21:27,user_388,69,146,6362
+tweet_92,Amazon is mixed feelings #love,neutral,Amazon,2025-08-27 17:31:06,user_119,30,423,9991
+tweet_93,totally worth it Olympics 2024! via @user!!!,positive,Olympics 2024,2025-08-05 04:59:44,user_356,89,292,8236
+tweet_94,Amazon is a horrible check this out!,negative,Amazon,2025-08-12 18:49:50,user_62,15,55,5908
+tweet_95,Climate Change is decent enough 😢,neutral,Climate Change,2025-08-23 10:26:42,user_292,4,491,9585
+tweet_96,Netflix is not bad what do you think?,neutral,Netflix,2025-08-03 06:12:28,user_128,48,322,113
+tweet_97,iPhone 15 is reasonable option what do u think?,neutral,iPhone 15,2025-08-04 15:54:42,user_243,36,116,1856
+tweet_98,Apple is a useless #fail,negative,Apple,2025-08-24 16:43:29,user_276,52,337,4583
+tweet_99,best ever Netflix! #fail,positive,Netflix,2025-08-11 14:22:53,user_86,27,449,6651
+tweet_100,Netflix is a complete failure 💯,negative,Netflix,2025-08-10 10:35:22,user_90,94,53,8442
+tweet_101,Microsoft is decent enough via @user,neutral,Microsoft,2025-08-17 11:30:30,user_35,69,155,8759
+tweet_102,Google is moderate #hashtag,neutral,Google,2025-08-14 14:31:07,user_226,15,223,6440
+tweet_103,ChatGPT is ordinary 👍!!!,neutral,ChatGPT,2025-08-31 08:43:05,user_440,69,220,4458
+tweet_104,Amazon is a useless agree?,negative,Amazon,2025-08-03 16:51:03,user_239,83,1,8733
+tweet_105,iPhone 15 is fair price #trending!!!,neutral,iPhone 15,2025-08-08 02:54:49,user_53,69,462,1568
+tweet_106,Climate Change is could be better 😢,neutral,Climate Change,2025-08-07 12:02:46,user_393,37,424,2867
+tweet_107,ChatGPT is as expected RT @user:,neutral,ChatGPT,2025-08-20 13:26:20,user_113,89,211,4404
+tweet_108,Climate Change is a regret buying 👎,negative,Climate Change,2025-08-08 08:02:36,user_364,7,274,2194
+tweet_109,excellent service Apple! 👎,positive,Apple,2025-08-15 05:25:17,user_466,50,35,2468
+tweet_110,Tesla Model 3 is typical ,neutral,Tesla Model 3,2025-08-01 23:46:12,user_439,74,462,6705
+tweet_111,Climate Change is a pathetic #love,negative,Climate Change,2025-08-27 22:58:06,user_30,32,443,6584
+tweet_112,highly recommend iPhone 15! agree?,positive,iPhone 15,2025-08-24 12:26:20,user_436,34,307,7864
+tweet_113,highly recommend Microsoft! 😍,positive,Microsoft,2025-08-05 03:00:51,user_60,63,254,1575
+tweet_114,incredible quality Google! #hate,positive,Google,2025-08-27 23:10:48,user_70,83,190,1032
+tweet_115,ChatGPT is ordinary agree?,neutral,ChatGPT,2025-08-08 04:18:12,user_1,26,348,5770
+tweet_116,ChatGPT is a avoid this omg,negative,ChatGPT,2025-08-22 13:16:58,user_284,27,67,6295
+tweet_117,perfect choice Amazon! 👍,positive,Amazon,2025-08-08 06:03:37,user_465,97,435,9020
+tweet_118,exceeded expectations Amazon! thoughts?,positive,Amazon,2025-08-30 12:35:56,user_86,55,400,3031
+tweet_119,Netflix is moderate 👍,neutral,Netflix,2025-08-21 15:59:01,user_366,40,91,2686
+tweet_120,highly recommend Microsoft! lol,positive,Microsoft,2025-08-17 21:14:34,user_412,20,325,5058
+tweet_121,Amazon is a pathetic 🔥,negative,Amazon,2025-08-17 18:14:40,user_63,31,348,8796
+tweet_122,amazing product Apple! check this out!,positive,Apple,2025-08-11 20:52:11,user_241,23,126,2074
+tweet_123,Google is moderate 👍,neutral,Google,2025-08-23 19:36:30,user_192,39,181,5415
+tweet_124,love this ChatGPT! thoughts?,positive,ChatGPT,2025-08-16 16:03:34,user_27,17,66,2984
+tweet_125,iPhone 15 is fair price 😢,neutral,iPhone 15,2025-08-11 00:29:57,user_303,46,304,3748
+tweet_126,Google is as expected 💯,neutral,Google,2025-08-25 04:46:26,user_200,59,145,3494
+tweet_127,awesome Climate Change! 😢,positive,Climate Change,2025-08-08 10:37:40,user_116,3,28,5056
+tweet_128,Google is typical @mention,neutral,Google,2025-08-22 08:09:35,user_274,46,444,3219
+tweet_129,ChatGPT is nothing special thoughts?,neutral,ChatGPT,2025-08-16 12:19:29,user_49,88,189,9429
+tweet_130,Apple is could be better check this out!...,neutral,Apple,2025-08-24 15:38:49,user_183,98,350,525
+tweet_131,Google is mixed feelings thoughts?,neutral,Google,2025-08-22 19:49:35,user_168,49,389,2855
+tweet_132,totally worth it Netflix! 💯,positive,Netflix,2025-08-17 09:07:00,user_261,8,165,9551
+tweet_133,Apple is a pathetic #trending,negative,Apple,2025-08-27 06:24:58,user_194,51,58,9796
+tweet_134,exceeded expectations Google! omg,positive,Google,2025-08-17 19:37:52,user_373,28,390,5614
+tweet_135,iPhone 15 is nothing special RT @user:,neutral,iPhone 15,2025-08-23 08:55:48,user_465,64,456,1996
+tweet_136,best ever Microsoft! 👎,positive,Microsoft,2025-08-26 03:08:37,user_403,58,73,6110
+tweet_137,amazing product Microsoft! #trending,positive,Microsoft,2025-08-22 16:35:19,user_341,85,473,2001
+tweet_138,Tesla Model 3 is a total disappointment 🔥,negative,Tesla Model 3,2025-08-31 02:13:51,user_335,42,387,2421
+tweet_139,blown away Apple! #fail,positive,Apple,2025-08-28 04:32:26,user_362,78,224,2863
+tweet_140,ChatGPT is a regret buying check this out!,negative,ChatGPT,2025-08-03 05:42:39,user_121,30,394,4872
+tweet_141,Microsoft is a total disappointment via @user!!!,negative,Microsoft,2025-08-29 07:22:34,user_228,60,451,4954
+tweet_142,Climate Change is a broken omg,negative,Climate Change,2025-08-12 21:05:59,user_165,28,337,2052
+tweet_143,GOOGLE IS REASONABLE OPTION 👍,neutral,Google,2025-08-11 01:29:32,user_93,14,183,2102
+tweet_144,incredible quality Climate Change! #fail,positive,Climate Change,2025-08-20 20:38:15,user_340,66,393,5161
+tweet_145,Google is a disgusting #fail,negative,Google,2025-08-11 00:55:56,user_272,37,35,2650
+tweet_146,ChatGPT is a waste of money #trending,negative,ChatGPT,2025-08-31 14:26:09,user_186,64,306,8440
+tweet_147,blown away Apple! lol,positive,Apple,2025-08-22 04:40:52,user_63,61,446,7424
+tweet_148,excellent service iPhone 15! #hashtag,positive,iPhone 15,2025-08-08 01:39:45,user_479,37,191,9955
+tweet_149,Apple is acceptable #love,neutral,Apple,2025-08-17 15:10:05,user_24,9,252,8829
+tweet_150,Google is not bad check this out!,neutral,Google,2025-08-02 19:55:37,user_293,72,206,6934
+tweet_151,Google is standard quality @mention,neutral,Google,2025-08-27 03:51:24,user_107,90,191,3312
+tweet_152,Amazon is not bad #amazing,neutral,Amazon,2025-08-27 06:19:51,user_11,64,5,2972
+tweet_153,Amazon is a frustrating experience omg,negative,Amazon,2025-08-16 09:53:37,user_438,13,127,5915
+tweet_154,Google is ordinary #hate,neutral,Google,2025-08-07 23:02:49,user_9,77,322,9515
+tweet_155,brilliant Climate Change! #love,positive,Climate Change,2025-08-19 15:30:12,user_373,52,283,106
+tweet_156,ChatGPT is a useless 👍,negative,ChatGPT,2025-08-05 05:28:08,user_377,97,168,3136
+tweet_157,iPhone 15 is a total disappointment ...,negative,iPhone 15,2025-08-29 10:03:24,user_407,37,228,2077
+tweet_158,Google is a worst purchase check this out!,negative,Google,2025-08-19 08:01:40,user_329,35,439,5130
+tweet_159,Climate Change is ordinary 👎,neutral,Climate Change,2025-08-11 18:30:02,user_316,76,319,2995
+tweet_160,Amazon is standard quality RT @user:,neutral,Amazon,2025-08-04 13:32:59,user_362,19,139,9498
+tweet_161,Microsoft is it's okay omg,neutral,Microsoft,2025-08-23 07:12:55,user_293,50,334,212
+tweet_162,iPhone 15 is as expected #hate,neutral,iPhone 15,2025-08-02 14:51:09,user_153,54,364,8323
+tweet_163,Amazon is fair price 😢,neutral,Amazon,2025-08-07 02:16:39,user_484,44,454,9135
+tweet_164,Microsoft is a broken agree?,negative,Microsoft,2025-08-17 17:58:57,user_296,64,472,4107
+tweet_165,brilliant Microsoft! #love,positive,Microsoft,2025-08-12 23:58:17,user_168,29,350,7063
+tweet_166,Olympics 2024 is a terrible quality 👎,negative,Olympics 2024,2025-08-11 10:32:47,user_233,31,496,1021
+tweet_167,iPhone 15 is not bad 👎,neutral,iPhone 15,2025-08-24 20:20:49,user_81,11,364,4327
+tweet_168,iPhone 15 is a complete failure agree?,negative,iPhone 15,2025-08-24 21:23:15,user_376,22,156,4138
+tweet_169,iPhone 15 is moderate omg,neutral,iPhone 15,2025-08-09 15:32:51,user_174,14,169,8348
+tweet_170,Climate Change is fair price #hate,neutral,Climate Change,2025-08-18 00:20:08,user_8,98,219,1541
+tweet_171,excellent service Google! #trending,positive,Google,2025-08-20 18:55:52,user_207,66,471,8239
+tweet_172,Netflix is a broken 🔥,negative,Netflix,2025-08-02 01:49:04,user_369,46,119,7997
+tweet_173,Google is fair price !!!,neutral,Google,2025-08-21 05:38:25,user_401,91,85,1957
+tweet_174,Apple is a not worth it @mention,negative,Apple,2025-08-05 12:03:42,user_338,16,131,5452
+tweet_175,best ever Netflix! 😍,positive,Netflix,2025-08-10 16:57:07,user_52,96,233,8287
+tweet_176,iPhone 15 is a poor service #amazing,negative,iPhone 15,2025-08-10 19:08:22,user_370,89,38,5751
+tweet_177,top notch Climate Change! what do you think?,positive,Climate Change,2025-08-12 04:14:25,user_26,45,381,9075
+tweet_178,Netflix is not bad 👍,neutral,Netflix,2025-08-15 18:04:02,user_119,47,54,6159
+tweet_179,totally worth it ChatGPT! #amazing,positive,ChatGPT,2025-08-18 18:47:33,user_351,77,232,1202
+tweet_180,totally worth it iPhone 15! via @user,positive,iPhone 15,2025-08-27 07:56:43,user_436,57,342,2504
+tweet_181,Google is a not worth it #amazing,negative,Google,2025-08-21 03:22:55,user_61,81,422,7436
+tweet_182,iPhone 15 is a waste of money via @user,negative,iPhone 15,2025-08-04 19:38:06,user_444,31,57,5464
+tweet_183,Microsoft is reasonable option #amazing,neutral,Microsoft,2025-08-16 20:39:18,user_125,98,247,4563
+tweet_184,iPhone 15 is decent enough #trending,neutral,iPhone 15,2025-08-03 12:21:07,user_302,36,453,1281
+tweet_185,amazing product Netflix! #trending,positive,Netflix,2025-08-07 12:03:29,user_204,32,10,2814
+tweet_186,brilliant Climate Change! 😢,positive,Climate Change,2025-08-12 10:24:21,user_206,23,78,6176
+tweet_187,ChatGPT is a disgusting thoughts?,negative,ChatGPT,2025-08-25 13:32:14,user_66,37,189,3933
+tweet_188,fantastic experience Apple! #trending,positive,Apple,2025-08-25 17:12:46,user_140,9,398,3081
+tweet_189,perfect choice Amazon! via @user,positive,Amazon,2025-08-26 13:42:52,user_244,51,82,3888
+tweet_190,iPhone 15 is mixed feelings #trending!!!,neutral,iPhone 15,2025-08-13 14:06:08,user_141,19,191,6514
+tweet_191,Google is moderate check this out!,neutral,Google,2025-08-28 10:54:09,user_64,42,193,1805
+tweet_192,Olympics 2024 is a useless RT @user:,negative,Olympics 2024,2025-08-27 21:06:18,user_211,22,12,3605
+tweet_193,ChatGPT is a broken omg,negative,ChatGPT,2025-08-28 00:14:59,user_149,11,144,7771
+tweet_194,incredible quality Google! #love,positive,Google,2025-08-03 11:18:27,user_164,27,85,4532
+tweet_195,Microsoft is as expected ,neutral,Microsoft,2025-08-11 19:12:35,user_423,70,365,1162
+tweet_196,highly recommend Olympics 2024! omg,positive,Olympics 2024,2025-08-25 01:38:13,user_406,57,420,5188
+tweet_197,fantastic experience Google! ,positive,Google,2025-08-29 22:51:31,user_34,9,247,2483
+tweet_198,blown away Netflix! 💯,positive,Netflix,2025-08-28 13:47:52,user_440,93,24,9943
+tweet_199,best ever Tesla Model 3! @mention,positive,Tesla Model 3,2025-08-22 07:10:49,user_214,74,51,9645
+tweet_200,exceeded expectations Apple! RT @user:,positive,Apple,2025-08-26 11:03:40,user_65,34,150,2034
+tweet_201,blown away Tesla Model 3! #trending,positive,Tesla Model 3,2025-08-05 06:05:16,user_291,29,174,8229
+tweet_202,TOTALLY WORTH IT GOOGLE! 🔥,positive,Google,2025-08-11 16:58:29,user_490,20,77,3457
+tweet_203,Amazon is a poor service check this out!,negative,Amazon,2025-08-14 15:12:30,user_10,18,318,9017
+tweet_204,ChatGPT is a poor service 👍,negative,ChatGPT,2025-08-16 08:46:24,user_460,22,94,3118
+tweet_205,Microsoft is mixed feelings RT @user:,neutral,Microsoft,2025-08-05 21:37:05,user_476,5,262,4653
+tweet_206,excellent service Amazon! check this out!,positive,Amazon,2025-08-29 01:30:55,user_458,25,18,6187
+tweet_207,outstanding Microsoft! check this out!,positive,Microsoft,2025-08-27 08:03:07,user_413,15,91,2809
+tweet_208,Google is acceptable agree?,neutral,Google,2025-08-27 15:12:49,user_414,67,396,6474
+tweet_209,Climate Change is average product ,neutral,Climate Change,2025-08-16 21:13:57,user_157,11,8,8901
+tweet_210,Climate Change is a disgusting #love,negative,Climate Change,2025-08-25 18:33:55,user_327,6,265,1555
+tweet_211,highly recommend Apple! 🔥,positive,Apple,2025-08-19 04:59:31,user_59,68,138,1996
+tweet_212,Climate Change is a horrible #love,negative,Climate Change,2025-08-20 12:48:15,user_491,96,49,7395
+tweet_213,blown away Google! 💯,positive,Google,2025-08-16 13:05:20,user_267,28,206,1313
+tweet_214,fantastic experience Tesla Model 3! #fail!!!,positive,Tesla Model 3,2025-08-28 17:02:32,user_38,99,14,6584
+tweet_215,fantastic experience Netflix! RT @user:,positive,Netflix,2025-08-24 12:43:44,user_395,73,108,2715
+tweet_216,Netflix is a worst purchase 💯,negative,Netflix,2025-08-20 00:21:04,user_97,95,465,409
+tweet_217,Apple is not bad agree?,neutral,Apple,2025-08-10 03:42:56,user_70,38,298,7788
+tweet_218,Apple is a horrible 🔥,negative,Apple,2025-08-15 19:50:50,user_54,65,11,565
+tweet_219,Tesla Model 3 is a useless 🔥,negative,Tesla Model 3,2025-08-13 02:22:02,user_463,26,254,2928
+tweet_220,ChatGPT is a avoid this 👎,negative,ChatGPT,2025-08-04 13:10:19,user_461,13,334,6038
+tweet_221,outstanding Amazon! #fail,positive,Amazon,2025-08-04 09:40:34,user_295,74,80,500
+tweet_222,Netflix is a poor service 🔥,negative,Netflix,2025-08-20 07:34:02,user_131,95,220,8168
+tweet_223,Apple is a complete failure #trending,negative,Apple,2025-08-15 12:37:27,user_431,14,441,4745
+tweet_224,blown away ChatGPT! 😍,positive,ChatGPT,2025-08-09 16:51:22,user_14,91,106,6528
+tweet_225,Apple is a regret buying RT @user:,negative,Apple,2025-08-12 04:46:00,user_487,27,416,9984
+tweet_226,brilliant Olympics 2024! what do you think?,positive,Olympics 2024,2025-08-18 08:31:04,user_436,80,81,6853
+tweet_227,Microsoft is a avoid this 🔥,negative,Microsoft,2025-08-15 19:45:19,user_279,25,77,9082
+tweet_228,perfect choice Apple! omg,positive,Apple,2025-08-08 15:48:15,user_75,77,369,3988
+tweet_229,amazing product Microsoft! #trending,positive,Microsoft,2025-08-10 07:42:54,user_127,57,171,8923
+tweet_230,love this Climate Change! 💯,positive,Climate Change,2025-08-16 15:09:38,user_104,38,109,8385
+tweet_231,highly recommend Netflix! thoughts?,positive,Netflix,2025-08-27 16:40:28,user_80,27,446,2722
+tweet_232,Climate Change is acceptable #love,neutral,Climate Change,2025-08-12 05:27:31,user_446,27,80,6540
+tweet_233,ChatGPT is a worst purchase what do you think?,negative,ChatGPT,2025-08-25 10:13:13,user_497,96,59,307
+tweet_234,Microsoft is nothing special #love,neutral,Microsoft,2025-08-05 13:40:07,user_306,71,1,7484
+tweet_235,ChatGPT is a worst purchase thoughts?,negative,ChatGPT,2025-08-22 14:15:45,user_350,35,174,430
+tweet_236,awesome Olympics 2024! thoughts?,positive,Olympics 2024,2025-08-07 14:15:08,user_445,11,280,3873
+tweet_237,Tesla Model 3 is decent enough #fail,neutral,Tesla Model 3,2025-08-29 06:52:51,user_166,75,366,755
+tweet_238,perfect choice Tesla Model 3! ...,positive,Tesla Model 3,2025-08-28 12:09:12,user_49,92,178,4191
+tweet_239,best ever Apple! #love,positive,Apple,2025-08-11 13:35:01,user_109,59,178,4683
+tweet_240,exceeded expectations Google! RT @user:,positive,Google,2025-08-23 11:43:19,user_5,2,182,189
+tweet_241,iPhone 15 is mixed feelings #amazing,neutral,iPhone 15,2025-08-18 05:37:19,user_363,53,250,8168
+tweet_242,BRILLIANT APPLE! 💯,positive,Apple,2025-08-14 10:09:08,user_186,73,113,9744
+tweet_243,Google is as expected 👎,neutral,Google,2025-08-21 19:55:45,user_209,53,43,4501
+tweet_244,Netflix is a total disappointment RT @user:,negative,Netflix,2025-08-26 02:07:26,user_442,19,287,2297
+tweet_245,highly recommend ChatGPT! #love,positive,ChatGPT,2025-08-22 14:36:14,user_248,36,474,3604
+tweet_246,Microsoft is could be better @mention,neutral,Microsoft,2025-08-05 20:56:14,user_386,91,451,9521
+tweet_247,awesome Tesla Model 3! 🔥,positive,Tesla Model 3,2025-08-18 05:48:35,user_140,64,281,1431
+tweet_248,Apple is a broken #hate,negative,Apple,2025-08-02 13:12:32,user_382,76,95,8831
+tweet_249,outstanding Tesla Model 3! @mention,positive,Tesla Model 3,2025-08-18 02:55:42,user_12,58,209,502
+tweet_250,excellent service iPhone 15! 😍,positive,iPhone 15,2025-08-13 21:42:20,user_497,36,281,6583
+tweet_251,Apple is a horrible #hashtag,negative,Apple,2025-08-02 15:50:26,user_307,57,258,8473
+tweet_252,top notch Amazon! lol,positive,Amazon,2025-08-15 12:23:22,user_173,42,365,4973
+tweet_253,fantastic experience iPhone 15! #hashtag,positive,iPhone 15,2025-08-02 06:17:14,user_75,26,170,6774
+tweet_254,amazing product Apple! 💯,positive,Apple,2025-08-10 04:32:20,user_116,31,486,3604
+tweet_255,Google is not bad @mention,neutral,Google,2025-08-11 06:08:12,user_158,62,285,8581
+tweet_256,best ever ChatGPT! via @user,positive,ChatGPT,2025-08-29 16:11:30,user_366,93,87,3599
+tweet_257,top notch Tesla Model 3! via @user,positive,Tesla Model 3,2025-08-31 02:33:46,user_196,15,326,4338
+tweet_258,brilliant iPhone 15! #trending,positive,iPhone 15,2025-08-23 03:49:44,user_392,68,58,3482
+tweet_259,excellent service Climate Change! 👎,positive,Climate Change,2025-08-29 11:06:20,user_29,33,376,4634
+tweet_260,iPhone 15 is it's okay 💯,neutral,iPhone 15,2025-08-19 07:29:21,user_294,56,338,2176
+tweet_261,Apple is a useless 👎,negative,Apple,2025-08-22 21:01:52,user_351,8,116,717
+tweet_262,Tesla Model 3 is not bad agree?,neutral,Tesla Model 3,2025-08-14 01:09:16,user_18,58,127,3381
+tweet_263,excellent service Amazon! #hashtag,positive,Amazon,2025-08-04 06:23:30,user_333,46,255,1994
+tweet_264,EXCEEDED EXPECTATIONS AMAZON! 😢,positive,Amazon,2025-08-20 14:06:38,user_113,37,187,1891
+tweet_265,incredible quality Netflix! via @user,positive,Netflix,2025-08-02 01:12:41,user_195,60,43,9871
+tweet_266,excellent service Climate Change! @mention,positive,Climate Change,2025-08-09 17:14:26,user_150,45,493,9504
+tweet_267,iPhone 15 is acceptable #hate,neutral,iPhone 15,2025-08-24 21:54:50,user_180,52,61,7618
+tweet_268,Microsoft is a worst purchase what do you think?,negative,Microsoft,2025-08-02 00:31:45,user_222,6,101,2578
+tweet_269,amazing product Olympics 2024! @mention,positive,Olympics 2024,2025-08-07 00:27:46,user_485,34,156,8492
+tweet_270,outstanding Olympics 2024! #amazing,positive,Olympics 2024,2025-08-31 05:21:33,user_326,40,146,57
+tweet_271,Olympics 2024 is a terrible quality #hate,negative,Olympics 2024,2025-08-14 19:00:16,user_29,23,87,8594
+tweet_272,awesome ChatGPT! 💯,positive,ChatGPT,2025-08-16 21:57:38,user_13,86,354,8858
+tweet_273,totally worth it Amazon! #hashtag,positive,Amazon,2025-08-09 10:33:18,user_475,3,142,8340
+tweet_274,Google is a regret buying 😍,negative,Google,2025-08-26 02:51:51,user_138,79,153,9964
+tweet_275,Climate Change is a avoid this 🔥,negative,Climate Change,2025-08-18 00:40:04,user_377,55,6,5504
+tweet_276,fantastic experience Climate Change! thoughts?,positive,Climate Change,2025-08-11 20:32:42,user_204,56,200,1346
+tweet_277,Apple is a terrible quality @mention,negative,Apple,2025-08-18 06:53:15,user_418,91,92,1045
+tweet_278,Climate Change is decent enough thoughts?!!!,neutral,Climate Change,2025-08-01 21:15:53,user_418,59,65,2499
+tweet_279,iPhone 15 is a avoid this #love,negative,iPhone 15,2025-08-15 19:31:40,user_220,40,243,3089
+tweet_280,Microsoft is a pathetic #hate,negative,Microsoft,2025-08-22 01:48:18,user_496,42,48,8627
+tweet_281,Climate Change is a broken #amazing,negative,Climate Change,2025-08-15 13:01:06,user_125,14,478,3723
+tweet_282,ChatGPT is as expected what do you think?,neutral,ChatGPT,2025-08-06 17:55:54,user_380,88,462,2532
+tweet_283,exceeded expectations iPhone 15! @mention,positive,iPhone 15,2025-08-08 20:09:20,user_302,18,146,8073
+tweet_284,Climate Change is mixed feelings 👍,neutral,Climate Change,2025-08-01 16:52:52,user_243,45,168,6668
+tweet_285,Climate Change is as expected lol,neutral,Climate Change,2025-08-15 16:54:12,user_482,46,75,831
+tweet_286,Tesla Model 3 is not bad via @user,neutral,Tesla Model 3,2025-08-17 15:46:25,user_357,53,163,6230
+tweet_287,Olympics 2024 is a poor service 😢,negative,Olympics 2024,2025-08-22 02:42:29,user_7,85,56,738
+tweet_288,blown away Amazon! thoughts?,positive,Amazon,2025-08-22 13:09:31,user_431,88,329,6941
+tweet_289,ChatGPT is fair price #amazing,neutral,ChatGPT,2025-08-31 07:19:08,user_147,64,276,8355
+tweet_290,Amazon is moderate thoughts?,neutral,Amazon,2025-08-11 12:18:59,user_115,16,223,2232
+tweet_291,Microsoft is it's okay 😢,neutral,Microsoft,2025-08-11 15:02:34,user_135,63,310,3515
+tweet_292,Olympics 2024 is a not worth it #hate,negative,Olympics 2024,2025-08-25 20:50:53,user_315,66,406,5185
+tweet_293,Amazon is acceptable omg,neutral,Amazon,2025-08-26 10:22:28,user_403,15,286,1946
+tweet_294,Google is fair price what do you think?,neutral,Google,2025-08-21 11:24:30,user_287,60,229,4917
+tweet_295,Apple is a avoid this what do you think?,negative,Apple,2025-08-25 14:12:23,user_151,46,464,2269
+tweet_296,Tesla Model 3 is a horrible #hashtag,negative,Tesla Model 3,2025-08-18 09:28:12,user_187,25,21,3066
+tweet_297,top notch ChatGPT! 🔥,positive,ChatGPT,2025-08-19 04:14:46,user_119,85,199,5058
+tweet_298,Google is reasonable option 👎,neutral,Google,2025-08-21 16:29:19,user_348,29,47,7514
+tweet_299,iPhone 15 is average product via @user,neutral,iPhone 15,2025-08-11 04:37:02,user_329,89,34,3554
+tweet_300,Google is moderate check this out!,neutral,Google,2025-08-23 15:48:12,user_316,64,351,4840
+tweet_301,fantastic experience Google! 👎,positive,Google,2025-08-23 10:53:24,user_246,82,294,463
+tweet_302,incredible quality Olympics 2024! #trending,positive,Olympics 2024,2025-08-20 03:13:41,user_465,56,67,4994
+tweet_303,totally worth it Tesla Model 3! #fail,positive,Tesla Model 3,2025-08-22 13:46:12,user_317,79,103,8970
+tweet_304,amazing product Tesla Model 3! #fail,positive,Tesla Model 3,2025-08-04 07:34:50,user_400,41,207,9472
+tweet_305,Tesla Model 3 is average product RT @user:,neutral,Tesla Model 3,2025-08-18 14:16:35,user_62,98,146,5890
+tweet_306,Olympics 2024 is a poor service agree?,negative,Olympics 2024,2025-08-06 01:58:02,user_410,25,180,7349
+tweet_307,incredible quality Google! #love,positive,Google,2025-08-02 07:03:05,user_143,84,291,1278
+tweet_308,love this Olympics 2024! agree?,positive,Olympics 2024,2025-08-17 16:59:40,user_269,34,408,4850
+tweet_309,amazing product Climate Change! #trending,positive,Climate Change,2025-08-09 11:39:17,user_459,87,497,9960
+tweet_310,love this Microsoft! #hashtag,positive,Microsoft,2025-08-08 19:15:30,user_168,41,294,5635
+tweet_311,Amazon is a broken !!!,negative,Amazon,2025-08-23 09:27:31,user_386,55,172,3615
+tweet_312,Apple is decent enough 😢,neutral,Apple,2025-08-12 14:42:00,user_51,81,341,8879
+tweet_313,incredible quality iPhone 15! #love,positive,iPhone 15,2025-08-20 03:43:36,user_158,90,96,7456
+tweet_314,iPhone 15 is a pathetic 👎,negative,iPhone 15,2025-08-27 08:34:13,user_292,12,414,8807
+tweet_315,blown away Apple! 😢,positive,Apple,2025-08-06 08:47:42,user_24,7,352,5894
+tweet_316,Tesla Model 3 is it's okay #hashtag,neutral,Tesla Model 3,2025-08-27 11:39:59,user_238,59,267,3122
+tweet_317,Climate Change is st&ard quality 🔥,neutral,Climate Change,2025-08-12 02:47:20,user_226,95,395,1033
+tweet_318,Microsoft is a terrible quality ,negative,Microsoft,2025-08-28 05:02:10,user_463,89,28,6278
+tweet_319,Apple is standard quality via @user,neutral,Apple,2025-08-20 22:41:18,user_63,42,483,2556
+tweet_320,blown away iPhone 15! omg...,positive,iPhone 15,2025-08-02 15:41:01,user_89,7,101,800
+tweet_321,Google is a waste of money #fail!!!,negative,Google,2025-08-13 07:20:53,user_456,45,22,7083
+tweet_322,Netflix is mixed feelings check this out!,neutral,Netflix,2025-08-30 20:31:53,user_110,81,136,153
+tweet_323,Olympics 2024 is a complete failure @mention,negative,Olympics 2024,2025-08-06 00:59:11,user_345,80,174,7703
+tweet_324,Amazon is a total disappointment #hate,negative,Amazon,2025-08-28 11:38:04,user_10,77,18,3610
+tweet_325,love this Amazon! 👎,positive,Amazon,2025-08-03 04:09:26,user_92,88,163,6280
+tweet_326,totally worth it Tesla Model 3! 👎,positive,Tesla Model 3,2025-08-03 16:45:56,user_389,61,215,4652
+tweet_327,amazing product Google! #amazing,positive,Google,2025-08-16 13:44:23,user_64,42,157,993
+tweet_328,amazing product Olympics 2024! agree?,positive,Olympics 2024,2025-08-17 10:18:19,user_403,18,451,6961
+tweet_329,Olympics 2024 is moderate what do you think?,neutral,Olympics 2024,2025-08-23 08:37:15,user_155,65,379,6223
+tweet_330,Amazon is not bad 😍,neutral,Amazon,2025-08-01 21:17:55,user_51,3,450,2382
+tweet_331,Apple is could be better #hashtag,neutral,Apple,2025-08-09 08:51:19,user_473,56,297,3279
+tweet_332,ChatGPT is decent enough 😢,neutral,ChatGPT,2025-08-24 01:08:25,user_80,68,207,5472
+tweet_333,ChatGPT is a disgusting ,negative,ChatGPT,2025-08-20 02:28:39,user_491,43,256,4847
+tweet_334,iPhone 15 is a broken #hashtag,negative,iPhone 15,2025-08-19 15:22:31,user_485,77,234,5379
+tweet_335,incredible quality Apple! #fail,positive,Apple,2025-08-08 15:28:53,user_158,66,301,4854
+tweet_336,totally worth it iPhone 15! 🔥,positive,iPhone 15,2025-08-28 20:25:00,user_103,49,317,9259
+tweet_337,blown away iPhone 15! @mention,positive,iPhone 15,2025-08-14 05:27:21,user_311,10,354,8434
+tweet_338,exceeded expectations Microsoft! 👍,positive,Microsoft,2025-08-25 09:35:29,user_62,32,6,1311
+tweet_339,Tesla Model 3 is a worst purchase what do you think?,negative,Tesla Model 3,2025-08-24 16:29:51,user_111,50,336,6081
+tweet_340,amazing product ChatGPT! #amazing,positive,ChatGPT,2025-08-22 05:38:24,user_30,59,498,2965
+tweet_341,Google is typical via @user,neutral,Google,2025-08-09 08:39:35,user_417,40,208,6572
+tweet_342,Amazon is acceptable via @user,neutral,Amazon,2025-08-28 17:15:25,user_253,35,460,5869
+tweet_343,Microsoft is as expected 💯,neutral,Microsoft,2025-08-08 19:17:14,user_96,32,104,3769
+tweet_344,Netflix is as expected #amazing,neutral,Netflix,2025-08-13 15:46:56,user_477,87,32,3535
+tweet_345,Google is mixed feelings via @user,neutral,Google,2025-08-13 12:26:56,user_103,48,147,1954
+tweet_346,amazing product Google! RT @user:,positive,Google,2025-08-20 11:22:39,user_143,0,207,4956
+tweet_347,Netflix is a total disappointment 😢!!!,negative,Netflix,2025-08-31 00:10:26,user_56,50,239,5119
+tweet_348,awesome Olympics 2024! #love,positive,Olympics 2024,2025-08-31 02:23:18,user_490,42,54,3722
+tweet_349,Google is a avoid this #trending,negative,Google,2025-08-21 18:21:25,user_392,40,347,8909
+tweet_350,iPhone 15 is a poor service thoughts?,negative,iPhone 15,2025-08-28 08:33:05,user_137,77,210,5576
+tweet_351,Microsoft is ordinary via @user!!!,neutral,Microsoft,2025-08-21 18:33:24,user_87,41,100,7403
+tweet_352,awesome Amazon! 🔥,positive,Amazon,2025-08-22 08:57:21,user_126,23,339,3536
+tweet_353,Microsoft is standard quality omg,neutral,Microsoft,2025-08-25 12:33:55,user_371,50,169,1522
+tweet_354,exceeded expectations Climate Change! 👎,positive,Climate Change,2025-08-28 19:50:22,user_156,10,417,3069
+tweet_355,Climate Change is a broken agree?,negative,Climate Change,2025-08-03 07:56:46,user_387,57,499,5133
+tweet_356,fantastic experience Olympics 2024! 😍,positive,Olympics 2024,2025-08-09 01:55:33,user_15,5,88,236
+tweet_357,exceeded expectations ChatGPT! #trending,positive,ChatGPT,2025-08-25 02:51:52,user_245,12,67,3109
+tweet_358,incredible quality ChatGPT! omg,positive,ChatGPT,2025-08-17 15:18:19,user_352,98,238,1995
+tweet_359,Olympics 2024 is a complete failure lol,negative,Olympics 2024,2025-08-26 20:16:55,user_333,39,376,3319
+tweet_360,top notch Tesla Model 3! #hashtag,positive,Tesla Model 3,2025-08-18 22:44:34,user_396,76,277,6194
+tweet_361,exceeded expectations Netflix! what do you think?,positive,Netflix,2025-08-14 14:49:03,user_220,57,72,4152
+tweet_362,love this Apple! check this out!,positive,Apple,2025-08-19 14:57:35,user_405,58,334,6450
+tweet_363,Climate Change is a complete failure 😍,negative,Climate Change,2025-08-30 17:22:40,user_264,99,73,7355
+tweet_364,fantastic experience Apple! thoughts?,positive,Apple,2025-08-22 21:31:52,user_17,43,312,7190
+tweet_365,Google is a complete failure 💯,negative,Google,2025-08-22 22:06:01,user_217,85,475,7134
+tweet_366,awesome Microsoft! ,positive,Microsoft,2025-08-21 10:50:19,user_376,21,2,1765
+tweet_367,best ever Google! #love!!!,positive,Google,2025-08-11 06:42:25,user_17,34,114,1953
+tweet_368,exceeded expectations iPhone 15! agree?,positive,iPhone 15,2025-08-28 06:43:11,user_310,85,143,1950
+tweet_369,Apple is a useless 😍,negative,Apple,2025-08-05 20:16:53,user_431,69,456,9671
+tweet_370,Olympics 2024 is a useless via @user,negative,Olympics 2024,2025-08-26 03:57:33,user_208,0,286,6330
+tweet_371,Apple is a horrible via @user,negative,Apple,2025-08-04 05:37:38,user_94,94,79,1806
+tweet_372,Olympics 2024 is typical agree?,neutral,Olympics 2024,2025-08-27 22:00:53,user_74,93,260,2579
+tweet_373,ChatGPT is a horrible 👎,negative,ChatGPT,2025-08-09 22:38:54,user_185,34,109,4178
+tweet_374,Google is a worst purchase 😢,negative,Google,2025-08-14 12:57:27,user_189,93,97,6710
+tweet_375,Olympics 2024 is ordinary #love,neutral,Olympics 2024,2025-08-19 12:24:15,user_492,98,412,4343
+tweet_376,highly recommend Google! #hate,positive,Google,2025-08-10 07:28:50,user_19,42,191,1429
+tweet_377,Climate Change is as expected #hashtag,neutral,Climate Change,2025-08-15 08:31:22,user_50,8,91,5410
+tweet_378,incredible quality Apple! #amazing,positive,Apple,2025-08-14 11:35:42,user_94,89,14,3394
+tweet_379,excellent service iPhone 15! ,positive,iPhone 15,2025-08-26 07:53:08,user_207,72,450,9591
+tweet_380,top notch Netflix! #trending,positive,Netflix,2025-08-31 04:50:39,user_107,5,312,5650
+tweet_381,Google is decent enough #hashtag,neutral,Google,2025-08-10 01:37:11,user_286,40,398,7660
+tweet_382,Tesla Model 3 is a total disappointment #fail,negative,Tesla Model 3,2025-08-03 07:13:42,user_16,12,204,7886
+tweet_383,Tesla Model 3 is not bad ,neutral,Tesla Model 3,2025-08-24 15:42:41,user_314,50,432,7057
+tweet_384,top notch Google! ,positive,Google,2025-08-31 08:44:05,user_215,15,357,1486
+tweet_385,excellent service Climate Change! #trending,positive,Climate Change,2025-08-04 18:27:14,user_129,46,170,5027
+tweet_386,Microsoft is decent enough #love,neutral,Microsoft,2025-08-07 12:19:13,user_275,24,179,2425
+tweet_387,Netflix is nothing special via @user,neutral,Netflix,2025-08-05 10:56:30,user_343,38,205,6959
+tweet_388,outstanding ChatGPT! RT @user:,positive,ChatGPT,2025-08-17 15:17:58,user_269,30,23,2042
+tweet_389,Olympics 2024 is a horrible check this out!,negative,Olympics 2024,2025-08-15 22:44:28,user_20,95,390,8635
+tweet_390,Google is average product ,neutral,Google,2025-08-23 00:19:10,user_489,77,156,757
+tweet_391,best ever Olympics 2024! #amazing,positive,Olympics 2024,2025-08-28 06:47:36,user_347,4,350,1511
+tweet_392,ChatGPT is standard quality ,neutral,ChatGPT,2025-08-10 00:26:01,user_132,20,147,7461
+tweet_393,Apple is it's okay what do you think?,neutral,Apple,2025-08-14 19:05:23,user_326,49,378,3432
+tweet_394,Amazon is ordinary 💯,neutral,Amazon,2025-08-05 02:58:43,user_435,99,64,7469
+tweet_395,Google is acceptable thoughts?,neutral,Google,2025-08-05 02:07:35,user_306,72,40,1531
+tweet_396,brilliant Climate Change! 😍,positive,Climate Change,2025-08-02 10:53:18,user_22,85,312,4996
+tweet_397,iPhone 15 is a terrible quality 🔥,negative,iPhone 15,2025-08-06 18:23:36,user_155,89,409,9807
+tweet_398,Google is a pathetic what do you think?,negative,Google,2025-08-22 22:01:18,user_172,18,210,8457
+tweet_399,blown away Netflix! 💯,positive,Netflix,2025-08-05 13:53:09,user_77,7,208,423
+tweet_400,Tesla Model 3 is a pathetic RT @user:,negative,Tesla Model 3,2025-08-28 20:42:38,user_318,47,456,7157
+tweet_401,Climate Change is nothing special check this out!,neutral,Climate Change,2025-08-26 16:45:53,user_497,34,378,9330
+tweet_402,Tesla Model 3 is a total disappointment check this out!,negative,Tesla Model 3,2025-08-16 09:11:38,user_130,48,62,9838
+tweet_403,amazing product Apple! via @user,positive,Apple,2025-08-19 03:51:25,user_297,79,152,8580
+tweet_404,top notch Amazon! 😢,positive,Amazon,2025-08-15 11:35:50,user_56,72,378,7675
+tweet_405,fantastic experience Climate Change! #hashtag,positive,Climate Change,2025-08-13 22:38:36,user_157,70,427,1517
+tweet_406,iPhone 15 is a disgusting omg,negative,iPhone 15,2025-08-23 13:20:46,user_75,83,56,4570
+tweet_407,outstanding Climate Change! 💯,positive,Climate Change,2025-08-24 07:18:03,user_378,56,431,7695
+tweet_408,Apple is nothing special #hashtag,neutral,Apple,2025-08-20 21:56:51,user_280,81,219,5829
+tweet_409,Climate Change is as expected 💯,neutral,Climate Change,2025-08-12 06:01:14,user_63,14,496,8840
+tweet_410,Amazon is not bad RT @user:,neutral,Amazon,2025-08-26 23:20:49,user_293,56,192,4397
+tweet_411,Olympics 2024 is could be better lol,neutral,Olympics 2024,2025-08-31 03:30:13,user_316,12,92,72
+tweet_412,NETFLIX IS FAIR PRICE OMG,neutral,Netflix,2025-08-05 10:09:32,user_88,68,495,4084
+tweet_413,exceeded expectations Apple! 😢,positive,Apple,2025-08-08 21:47:27,user_142,95,183,4297
+tweet_414,blown away Apple! 💯,positive,Apple,2025-08-30 16:14:23,user_303,99,385,7622
+tweet_415,iPhone 15 is moderate 😍,neutral,iPhone 15,2025-08-15 13:05:03,user_72,96,334,6773
+tweet_416,amazing product Climate Change! 🔥,positive,Climate Change,2025-08-24 23:23:04,user_442,50,176,9942
+tweet_417,incredible quality Olympics 2024! #amazing,positive,Olympics 2024,2025-08-14 08:01:50,user_116,34,433,8463
+tweet_418,Tesla Model 3 is standard quality omg,neutral,Tesla Model 3,2025-08-07 00:25:12,user_113,40,147,8214
+tweet_419,top notch Tesla Model 3! #fail,positive,Tesla Model 3,2025-08-06 03:01:11,user_371,2,249,2997
+tweet_420,blown away Microsoft! lol,positive,Microsoft,2025-08-04 01:07:10,user_424,64,166,1567
+tweet_421,Olympics 2024 is as expected RT @user:,neutral,Olympics 2024,2025-08-07 08:45:50,user_207,85,422,5849
+tweet_422,love this Climate Change! thoughts?,positive,Climate Change,2025-08-18 22:38:26,user_107,27,411,2221
+tweet_423,exceeded expectations Olympics 2024! check this out!,positive,Olympics 2024,2025-08-16 18:11:14,user_369,65,7,9297
+tweet_424,Tesla Model 3 is a worst purchase via @user,negative,Tesla Model 3,2025-08-20 23:35:21,user_371,7,236,8368
+tweet_425,iPhone 15 is a total disappointment #hate,negative,iPhone 15,2025-08-23 05:58:31,user_128,48,39,3323
+tweet_426,Tesla Model 3 is a broken thoughts?,negative,Tesla Model 3,2025-08-14 18:31:41,user_87,24,161,294
+tweet_427,Microsoft is a total disappointment #hate,negative,Microsoft,2025-08-06 22:09:00,user_466,11,49,583
+tweet_428,iPhone 15 is as expected 👍,neutral,iPhone 15,2025-08-02 21:04:16,user_151,99,77,7422
+tweet_429,highly recommend Climate Change! check this out!,positive,Climate Change,2025-08-10 13:48:41,user_83,85,151,5340
+tweet_430,Netflix is a frustrating experience #hashtag,negative,Netflix,2025-08-02 22:23:58,user_174,87,422,843
+tweet_431,Apple is a horrible 😢,negative,Apple,2025-08-17 04:36:19,user_93,90,485,9575
+tweet_432,highly recommend iPhone 15! #hate,positive,iPhone 15,2025-08-11 20:39:44,user_366,1,104,915
+tweet_433,Netflix is typical via @user,neutral,Netflix,2025-08-09 20:50:49,user_3,95,17,3751
+tweet_434,totally worth it iPhone 15! 👎,positive,iPhone 15,2025-08-01 17:06:49,user_358,86,190,4903
+tweet_435,Tesla Model 3 is a regret buying #trending,negative,Tesla Model 3,2025-08-12 14:09:38,user_45,20,236,4395
+tweet_436,top notch ChatGPT! 😢,positive,ChatGPT,2025-08-02 18:03:39,user_147,72,116,3841
+tweet_437,Netflix is average product via @user...,neutral,Netflix,2025-08-30 19:49:37,user_286,68,349,6275
+tweet_438,Microsoft is a broken @mention,negative,Microsoft,2025-08-14 04:15:44,user_2,52,332,6838
+tweet_439,Olympics 2024 is acceptable #amazing,neutral,Olympics 2024,2025-08-30 12:38:11,user_202,80,208,2843
+tweet_440,best ever Microsoft! check this out!,positive,Microsoft,2025-08-24 11:40:59,user_387,19,20,4898
+tweet_441,excellent service ChatGPT! 💯,positive,ChatGPT,2025-08-09 13:32:58,user_105,61,417,3151
+tweet_442,Tesla Model 3 is a worst purchase thoughts?,negative,Tesla Model 3,2025-08-17 17:27:58,user_280,83,226,760
+tweet_443,best ever Climate Change! check this out!,positive,Climate Change,2025-08-09 03:01:50,user_299,82,454,109
+tweet_444,best ever Tesla Model 3! 😢,positive,Tesla Model 3,2025-08-31 08:11:12,user_478,8,151,3738
+tweet_445,Microsoft is as expected 👎,neutral,Microsoft,2025-08-05 06:06:41,user_67,40,423,8217
+tweet_446,Microsoft is moderate 😢,neutral,Microsoft,2025-08-07 05:38:13,user_60,74,193,4854
+tweet_447,exceeded expectations ChatGPT! agree?,positive,ChatGPT,2025-08-27 12:14:04,user_388,78,19,8280
+tweet_448,Tesla Model 3 is a frustrating experience lol,negative,Tesla Model 3,2025-08-16 03:10:08,user_214,42,471,8219
+tweet_449,Amazon is acceptable thoughts?,neutral,Amazon,2025-08-25 22:29:03,user_7,93,213,8033
+tweet_450,fantastic experience Olympics 2024! agree?,positive,Olympics 2024,2025-08-21 23:49:25,user_35,72,187,7866
+tweet_451,outstanding ChatGPT! 😢,positive,ChatGPT,2025-08-22 16:45:42,user_391,35,83,4997
+tweet_452,Google is fair price 👎,neutral,Google,2025-08-10 01:26:36,user_283,79,388,2352
+tweet_453,iPhone 15 is a pathetic lol,negative,iPhone 15,2025-08-14 11:58:07,user_433,79,309,3244
+tweet_454,Google is a useless what do you think?,negative,Google,2025-08-18 11:59:14,user_232,70,393,5276
+tweet_455,Google is standard quality via @user,neutral,Google,2025-08-13 11:45:36,user_224,10,371,2462
+tweet_456,ChatGPT is a frustrating experience #amazing,negative,ChatGPT,2025-08-12 21:44:09,user_302,49,324,7706
+tweet_457,Google is reasonable option RT @user:,neutral,Google,2025-08-13 15:38:53,user_270,7,392,6400
+tweet_458,Olympics 2024 is a complete failure what do you think?,negative,Olympics 2024,2025-08-29 18:05:28,user_491,47,25,4900
+tweet_459,ChatGPT is a complete failure #amazing,negative,ChatGPT,2025-08-07 16:40:26,user_36,27,45,9877
+tweet_460,top notch Apple! 👍,positive,Apple,2025-08-08 16:33:20,user_490,83,475,4291
+tweet_461,Microsoft is average product 😢,neutral,Microsoft,2025-08-22 04:02:45,user_133,49,371,6551
+tweet_462,best ever Climate Change! 😍,positive,Climate Change,2025-08-04 15:39:34,user_316,18,160,2174
+tweet_463,awesome ChatGPT! what do you think?,positive,ChatGPT,2025-08-21 08:22:21,user_66,14,38,5460
+tweet_464,Google is decent enough 👎,neutral,Google,2025-08-04 13:50:56,user_181,18,219,2005
+tweet_465,Apple is a broken #love,negative,Apple,2025-08-08 08:58:54,user_133,33,81,5396
+tweet_466,amazing product ChatGPT! RT @user:,positive,ChatGPT,2025-08-07 13:20:09,user_98,18,126,7038
+tweet_467,Netflix is decent enough 👍,neutral,Netflix,2025-08-17 05:57:33,user_413,61,305,3428
+tweet_468,awesome Google! #fail,positive,Google,2025-08-21 02:35:32,user_182,88,69,9239
+tweet_469,Climate Change is decent enough 😍...,neutral,Climate Change,2025-08-11 12:03:27,user_350,15,228,9853
+tweet_470,highly recommend Google! check this out!,positive,Google,2025-08-20 05:15:33,user_27,76,413,7777
+tweet_471,iPhone 15 is ordinary check this out!,neutral,iPhone 15,2025-08-02 07:41:46,user_228,28,66,980
+tweet_472,Apple is a waste of money omg,negative,Apple,2025-08-04 04:33:28,user_1,45,401,6645
+tweet_473,iPhone 15 is a complete failure thoughts?,negative,iPhone 15,2025-08-02 23:43:29,user_392,58,35,6245
+tweet_474,Microsoft is decent enough @mention...,neutral,Microsoft,2025-08-25 17:39:45,user_264,2,235,1991
+tweet_475,perfect choice ChatGPT! thoughts?,positive,ChatGPT,2025-08-19 02:16:43,user_499,23,438,468
+tweet_476,blown away Olympics 2024! #amazing,positive,Olympics 2024,2025-08-13 21:55:22,user_373,92,300,1774
+tweet_477,iPhone 15 is it's okay 👍,neutral,iPhone 15,2025-08-10 22:28:19,user_145,36,49,4625
+tweet_478,totally worth it Amazon! 👎,positive,Amazon,2025-08-12 09:03:59,user_12,7,186,8644
+tweet_479,Netflix is a frustrating experience what do you think?,negative,Netflix,2025-08-02 01:38:12,user_438,59,66,8735
+tweet_480,Climate Change is fair price agree?,neutral,Climate Change,2025-08-27 21:20:28,user_401,54,71,9614
+tweet_481,highly recommend iPhone 15! omg,positive,iPhone 15,2025-08-28 10:19:27,user_238,61,0,2858
+tweet_482,amazing product Google! 👍,positive,Google,2025-08-13 04:56:02,user_158,66,97,4084
+tweet_483,outstanding Tesla Model 3! lol,positive,Tesla Model 3,2025-08-25 10:45:48,user_270,26,321,4428
+tweet_484,top notch Tesla Model 3! 👍,positive,Tesla Model 3,2025-08-26 15:16:06,user_223,68,410,3739
+tweet_485,Netflix is a useless #fail,negative,Netflix,2025-08-26 08:56:03,user_72,98,281,96
+tweet_486,Google is could be better #fail,neutral,Google,2025-08-20 09:31:30,user_433,87,15,4658
+tweet_487,Tesla Model 3 is average product 😢,neutral,Tesla Model 3,2025-08-24 03:59:53,user_284,88,274,6601
+tweet_488,iPhone 15 is a waste of money thoughts?,negative,iPhone 15,2025-08-23 01:57:12,user_489,21,426,7068
+tweet_489,ChatGPT is a horrible ,negative,ChatGPT,2025-08-03 15:58:35,user_391,14,127,2884
+tweet_490,exceeded expectations ChatGPT! 🔥,positive,ChatGPT,2025-08-25 19:02:46,user_379,84,167,3604
+tweet_491,ChatGPT is a disgusting via @user,negative,ChatGPT,2025-08-25 08:55:14,user_45,50,361,1644
+tweet_492,Google is a waste of money #fail,negative,Google,2025-08-09 12:08:00,user_33,0,448,6276
+tweet_493,Climate Change is a not worth it 👍,negative,Climate Change,2025-08-16 11:14:41,user_129,53,395,338
+tweet_494,Tesla Model 3 is could be better 💯,neutral,Tesla Model 3,2025-08-10 22:59:59,user_145,52,292,2290
+tweet_495,Google is a avoid this lol,negative,Google,2025-08-14 23:49:13,user_254,99,207,928
+tweet_496,Apple is could be better 😍,neutral,Apple,2025-08-29 00:13:51,user_371,97,420,1770
+tweet_497,outstanding Microsoft! lol,positive,Microsoft,2025-08-28 19:46:06,user_229,40,492,8231
+tweet_498,fantastic experience Olympics 2024! lol,positive,Olympics 2024,2025-08-20 16:46:08,user_462,23,375,241
+tweet_499,Netflix is moderate what do you think?,neutral,Netflix,2025-08-07 18:07:20,user_351,26,2,8367
+tweet_500,Apple is a disgusting 😍,negative,Apple,2025-08-30 00:11:23,user_329,62,436,6245
+tweet_501,Apple is a broken #amazing,negative,Apple,2025-08-06 11:46:08,user_223,7,184,1383
+tweet_502,Climate Change is fair price 👎,neutral,Climate Change,2025-08-08 15:23:35,user_25,30,49,1723
+tweet_503,Microsoft is a poor service 😍,negative,Microsoft,2025-08-06 16:07:25,user_377,66,202,1792
+tweet_504,Apple is a pathetic omg,negative,Apple,2025-08-21 20:22:26,user_134,84,332,2601
+tweet_505,iPhone 15 is mixed feelings 😢,neutral,iPhone 15,2025-08-15 18:08:25,user_106,95,303,4380
+tweet_506,blown away Netflix! check this out!,positive,Netflix,2025-08-30 10:44:14,user_168,72,69,7955
+tweet_507,incredible quality Microsoft! #amazing,positive,Microsoft,2025-08-26 05:28:52,user_207,92,147,7827
+tweet_508,brilliant ChatGPT! RT @user:,positive,ChatGPT,2025-08-12 21:56:11,user_6,91,243,1831
+tweet_509,Microsoft is a complete failure 😢,negative,Microsoft,2025-08-13 07:09:02,user_92,85,464,1549
+tweet_510,Google is not bad #amazing,neutral,Google,2025-08-10 18:02:38,user_105,17,90,7700
+tweet_511,Tesla Model 3 is fair price 😢,neutral,Tesla Model 3,2025-08-13 23:25:06,user_497,32,232,2201
+tweet_512,Microsoft is a useless 👎,negative,Microsoft,2025-08-18 21:04:31,user_105,38,419,1860
+tweet_513,Climate Change is fair price #amazing,neutral,Climate Change,2025-08-23 04:33:25,user_450,88,392,7485
+tweet_514,exceeded expectations Olympics 2024! ,positive,Olympics 2024,2025-08-27 11:20:39,user_464,71,410,7673
+tweet_515,Amazon is acceptable via @user,neutral,Amazon,2025-08-18 03:49:49,user_108,77,227,9726
+tweet_516,highly recommend Tesla Model 3! what do you think?,positive,Tesla Model 3,2025-08-11 19:57:33,user_52,79,3,4524
+tweet_517,Tesla Model 3 is average product 👍,neutral,Tesla Model 3,2025-08-20 17:37:07,user_77,34,325,793
+tweet_518,Olympics 2024 is mixed feelings #hate,neutral,Olympics 2024,2025-08-08 23:12:52,user_190,36,148,1866
+tweet_519,fantastic experience Amazon! ,positive,Amazon,2025-08-21 23:29:02,user_111,29,259,1431
+tweet_520,exceeded expectations Olympics 2024! 👍,positive,Olympics 2024,2025-08-24 10:47:47,user_202,48,455,3952
+tweet_521,Microsoft is mixed feelings thoughts?,neutral,Microsoft,2025-08-29 04:15:06,user_215,28,212,8906
+tweet_522,best ever Microsoft! @mention,positive,Microsoft,2025-08-14 18:46:07,user_281,87,492,7093
+tweet_523,ChatGPT is as expected RT @user:,neutral,ChatGPT,2025-08-20 19:26:50,user_197,73,475,1201
+tweet_524,perfect choice Amazon! #hate,positive,Amazon,2025-08-26 00:48:10,user_98,8,451,9230
+tweet_525,love this Google! 🔥,positive,Google,2025-08-10 01:04:30,user_166,44,229,9726
+tweet_526,Climate Change is fair price #amazing,neutral,Climate Change,2025-08-04 04:54:03,user_169,25,146,280
+tweet_527,Amazon is a disgusting 😍,negative,Amazon,2025-08-01 19:45:02,user_431,53,493,9464
+tweet_528,Climate Change is a total disappointment 💯,negative,Climate Change,2025-08-18 10:27:53,user_359,18,85,4083
+tweet_529,Microsoft is could be better 😍,neutral,Microsoft,2025-08-24 01:27:46,user_69,31,120,5900
+tweet_530,top notch Amazon! via @user,positive,Amazon,2025-08-04 20:34:52,user_37,64,407,282
+tweet_531,Apple is mixed feelings #trending,neutral,Apple,2025-08-25 04:34:47,user_414,41,158,194
+tweet_532,Apple is it's okay #love,neutral,Apple,2025-08-14 00:57:34,user_400,25,477,4765
+tweet_533,Netflix is not bad what do you think?,neutral,Netflix,2025-08-22 21:09:32,user_294,58,389,4096
+tweet_534,Microsoft is a avoid this RT @user:,negative,Microsoft,2025-08-08 03:54:35,user_151,79,124,8497
+tweet_535,Amazon is a not worth it 💯,negative,Amazon,2025-08-09 06:41:50,user_474,26,362,7352
+tweet_536,iPhone 15 is average product #trending,neutral,iPhone 15,2025-08-08 05:51:21,user_158,99,232,4278
+tweet_537,ChatGPT is a total disappointment 👍,negative,ChatGPT,2025-08-15 08:12:48,user_387,79,103,9132
+tweet_538,Climate Change is a not worth it ,negative,Climate Change,2025-08-15 13:56:43,user_104,31,439,772
+tweet_539,Amazon is a worst purchase agree?,negative,Amazon,2025-08-14 21:56:28,user_143,65,57,3646
+tweet_540,amazing product Google! RT @user:,positive,Google,2025-08-23 16:53:21,user_306,88,476,4235
+tweet_541,best ever Netflix! 😢,positive,Netflix,2025-08-20 09:16:35,user_97,34,370,9625
+tweet_542,iPhone 15 is it's okay 😢,neutral,iPhone 15,2025-08-02 10:34:53,user_429,57,338,3437
+tweet_543,brilliant Amazon! 👍,positive,Amazon,2025-08-15 18:04:54,user_197,32,268,7475
+tweet_544,Tesla Model 3 is a regret buying #hate,negative,Tesla Model 3,2025-08-27 01:58:54,user_5,63,290,3113
+tweet_545,brilliant Microsoft! #fail,positive,Microsoft,2025-08-05 12:10:19,user_392,43,356,2856
+tweet_546,exceeded expectations ChatGPT! #amazing,positive,ChatGPT,2025-08-10 00:31:47,user_292,3,412,8882
+tweet_547,Olympics 2024 is a not worth it omg,negative,Olympics 2024,2025-08-04 04:59:37,user_496,37,381,996
+tweet_548,incredible quality Microsoft! omg,positive,Microsoft,2025-08-01 15:29:16,user_157,90,41,198
+tweet_549,awesome iPhone 15! RT @user:,positive,iPhone 15,2025-08-12 14:43:28,user_135,39,13,7086
+tweet_550,incredible quality Apple! lol,positive,Apple,2025-08-22 11:13:40,user_343,73,310,3352
+tweet_551,Google is nothing special 👎,neutral,Google,2025-08-23 09:48:48,user_476,96,234,1712
+tweet_552,Climate Change is decent enough 🔥,neutral,Climate Change,2025-08-30 17:45:39,user_324,67,421,440
+tweet_553,highly recommend Microsoft! 🔥,positive,Microsoft,2025-08-13 05:48:08,user_324,55,431,5648
+tweet_554,Tesla Model 3 is a waste of money agree?,negative,Tesla Model 3,2025-08-24 05:44:28,user_80,35,410,372
+tweet_555,Tesla Model 3 is fair price #hate,neutral,Tesla Model 3,2025-08-26 10:45:09,user_226,78,172,3931
+tweet_556,exceeded expectations iPhone 15! 😢,positive,iPhone 15,2025-08-30 11:00:22,user_382,5,111,7680
+tweet_557,Google is a horrible omg,negative,Google,2025-08-20 19:26:10,user_137,2,16,2403
+tweet_558,Apple is fair price @mention,neutral,Apple,2025-08-13 09:59:35,user_472,83,184,7068
+tweet_559,Olympics 2024 is ordinary what do you think?,neutral,Olympics 2024,2025-08-24 00:10:58,user_278,35,38,7661
+tweet_560,Climate Change is nothing special via @user,neutral,Climate Change,2025-08-18 22:24:23,user_283,53,28,583
+tweet_561,Netflix is a frustrating experience #amazing,negative,Netflix,2025-08-08 06:53:36,user_282,60,48,5167
+tweet_562,awesome Climate Change! 👎,positive,Climate Change,2025-08-04 06:27:22,user_4,74,472,9653
+tweet_563,Amazon is a pathetic 🔥,negative,Amazon,2025-08-21 04:41:14,user_453,73,478,6107
+tweet_564,Netflix is a not worth it 🔥,negative,Netflix,2025-08-07 10:57:49,user_309,24,335,3900
+tweet_565,Olympics 2024 is average product what do you think?,neutral,Olympics 2024,2025-08-21 16:16:54,user_362,53,135,423
+tweet_566,best ever Microsoft! #hate,positive,Microsoft,2025-08-04 18:55:20,user_59,66,341,5269
+tweet_567,Netflix is typical #hate,neutral,Netflix,2025-08-20 14:14:18,user_136,46,304,7540
+tweet_568,best ever iPhone 15! #love,positive,iPhone 15,2025-08-02 21:08:35,user_349,35,370,6625
+tweet_569,best ever Netflix! 💯,positive,Netflix,2025-08-19 07:25:13,user_251,16,193,4217
+tweet_570,perfect choice iPhone 15! thoughts?,positive,iPhone 15,2025-08-15 17:37:21,user_305,66,217,3475
+tweet_571,Amazon is a disgusting what do you think?,negative,Amazon,2025-08-03 12:36:32,user_160,68,36,2002
+tweet_572,Microsoft is a useless #love,negative,Microsoft,2025-08-04 01:44:59,user_7,98,172,8691
+tweet_573,Microsoft is it's okay lol,neutral,Microsoft,2025-08-20 20:55:07,user_302,11,287,6711
+tweet_574,ChatGPT is not bad 👎,neutral,ChatGPT,2025-08-03 21:36:09,user_443,42,292,4881
+tweet_575,fantastic experience Apple! what do you think?,positive,Apple,2025-08-14 13:39:51,user_72,15,498,6008
+tweet_576,Tesla Model 3 is as expected lol,neutral,Tesla Model 3,2025-08-13 22:15:07,user_204,54,444,3055
+tweet_577,blown away ChatGPT! 😢,positive,ChatGPT,2025-08-17 06:01:55,user_27,17,251,7708
+tweet_578,Climate Change is a frustrating experience check this out!,negative,Climate Change,2025-08-22 08:53:49,user_269,31,266,2872
+tweet_579,outstanding Google! ,positive,Google,2025-08-12 21:37:52,user_93,62,215,2623
+tweet_580,brilliant Microsoft! 👍,positive,Microsoft,2025-08-30 12:46:23,user_63,35,128,6552
+tweet_581,Amazon is average product 😢,neutral,Amazon,2025-08-30 10:42:39,user_150,79,91,6196
+tweet_582,awesome Google! #amazing,positive,Google,2025-08-19 09:18:58,user_408,41,161,838
+tweet_583,exceeded expectations Tesla Model 3! 🔥,positive,Tesla Model 3,2025-08-22 11:48:09,user_179,23,53,695
+tweet_584,Amazon is a useless check this out!,negative,Amazon,2025-08-17 23:54:21,user_124,90,209,4415
+tweet_585,incredible quality ChatGPT! 😢,positive,ChatGPT,2025-08-29 04:46:56,user_251,88,416,912
+tweet_586,Climate Change is reasonable option lol,neutral,Climate Change,2025-08-31 13:52:23,user_112,92,278,2303
+tweet_587,awesome iPhone 15! lol,positive,iPhone 15,2025-08-08 21:12:09,user_69,59,133,8673
+tweet_588,exceeded expectations Olympics 2024! via @user,positive,Olympics 2024,2025-08-23 14:17:39,user_460,5,253,7287
+tweet_589,awesome Amazon! #love,positive,Amazon,2025-08-02 06:43:05,user_228,18,242,1786
+tweet_590,totally worth it Amazon! #amazing,positive,Amazon,2025-08-07 11:09:44,user_467,19,242,415
+tweet_591,awesome Tesla Model 3! #fail,positive,Tesla Model 3,2025-08-18 11:57:27,user_392,13,38,1588
+tweet_592,Climate Change is a avoid this 💯,negative,Climate Change,2025-08-18 21:42:20,user_214,61,276,1325
+tweet_593,ChatGPT is average product 👎,neutral,ChatGPT,2025-08-04 19:44:46,user_326,49,80,2917
+tweet_594,Climate Change is a total disappointment ,negative,Climate Change,2025-08-29 03:07:24,user_90,10,270,2273
+tweet_595,GOOGLE IS NOTHING SPECIAL 👍,neutral,Google,2025-08-09 16:35:10,user_188,55,20,2928
+tweet_596,Netflix is moderate omg,neutral,Netflix,2025-08-03 01:22:45,user_389,99,35,2321
+tweet_597,Amazon is a avoid this 💯,negative,Amazon,2025-08-03 20:53:15,user_429,91,255,6594
+tweet_598,Netflix is a pathetic #amazing,negative,Netflix,2025-08-13 17:13:51,user_139,28,56,7613
+tweet_599,iPhone 15 is a frustrating experience thoughts?,negative,iPhone 15,2025-08-04 04:08:06,user_449,22,344,8478
+tweet_600,Microsoft is average product via @user,neutral,Microsoft,2025-08-16 15:03:25,user_126,90,376,6762
+tweet_601,Netflix is as expected #amazing,neutral,Netflix,2025-08-16 05:25:27,user_374,55,133,3395
+tweet_602,iPhone 15 is a horrible agree?,negative,iPhone 15,2025-08-23 13:52:53,user_475,89,169,4372
+tweet_603,ChatGPT is it's okay omg!!!,neutral,ChatGPT,2025-08-04 09:40:15,user_426,29,424,7151
+tweet_604,Tesla Model 3 is a terrible quality 😢,negative,Tesla Model 3,2025-08-23 21:21:09,user_406,31,474,7920
+tweet_605,highly recommend iPhone 15! 👎,positive,iPhone 15,2025-08-16 15:38:57,user_438,42,392,6420
+tweet_606,ChatGPT is a disgusting #love,negative,ChatGPT,2025-08-27 15:42:10,user_381,55,271,3701
+tweet_607,love this Amazon! #hashtag,positive,Amazon,2025-08-28 13:02:47,user_91,68,163,3497
+tweet_608,Amazon is a useless 🔥,negative,Amazon,2025-08-02 14:21:04,user_234,82,230,9588
+tweet_609,iPhone 15 is fair price #hashtag,neutral,iPhone 15,2025-08-28 00:33:50,user_73,78,123,5880
+tweet_610,Olympics 2024 is mixed feelings #amazing,neutral,Olympics 2024,2025-08-05 22:47:29,user_41,9,76,175
+tweet_611,Google is a useless #amazing,negative,Google,2025-08-09 03:59:44,user_212,25,60,8732
+tweet_612,awesome iPhone 15! #hate,positive,iPhone 15,2025-08-24 18:44:47,user_313,51,474,5410
+tweet_613,Tesla Model 3 is mixed feelings #hate,neutral,Tesla Model 3,2025-08-30 07:54:47,user_462,83,157,8662
+tweet_614,Apple is a broken RT @user:,negative,Apple,2025-08-04 16:38:48,user_239,10,295,9658
+tweet_615,Google is a total disappointment #amazing,negative,Google,2025-08-29 21:10:02,user_446,89,80,8695
+tweet_616,Climate Change is a pathetic @mention,negative,Climate Change,2025-08-22 23:59:50,user_420,37,493,9095
+tweet_617,top notch Tesla Model 3! #hashtag,positive,Tesla Model 3,2025-08-15 09:16:34,user_204,16,309,2339
+tweet_618,blown away iPhone 15! 👍,positive,iPhone 15,2025-08-20 06:11:24,user_249,44,241,355
+tweet_619,love this Apple! 🔥,positive,Apple,2025-08-27 08:02:40,user_451,2,276,6275
+tweet_620,outstanding ChatGPT! 👍,positive,ChatGPT,2025-08-30 17:57:11,user_94,27,459,2922
+tweet_621,Amazon is a complete failure check this out!,negative,Amazon,2025-08-19 11:13:10,user_189,10,409,3564
+tweet_622,ChatGPT is standard quality #hate,neutral,ChatGPT,2025-08-21 19:48:47,user_259,84,199,8610
+tweet_623,iPhone 15 is a avoid this #fail,negative,iPhone 15,2025-08-31 12:54:28,user_67,79,422,7538
+tweet_624,highly recommend Google! 💯,positive,Google,2025-08-27 00:28:42,user_499,31,460,3834
+tweet_625,brilliant Apple! #amazing,positive,Apple,2025-08-30 09:00:38,user_8,33,73,7276
+tweet_626,Microsoft is a worst purchase #fail,negative,Microsoft,2025-08-28 00:38:09,user_469,64,412,4837
+tweet_627,Climate Change is a complete failure omg,negative,Climate Change,2025-08-30 23:46:49,user_341,16,407,9399
+tweet_628,Olympics 2024 is moderate 👍...,neutral,Olympics 2024,2025-08-04 17:28:18,user_392,39,166,9723
+tweet_629,Google is decent enough #amazing,neutral,Google,2025-08-21 10:49:29,user_286,77,113,6820
+tweet_630,Microsoft is a frustrating experience #hate,negative,Microsoft,2025-08-10 15:39:03,user_23,83,277,2017
+tweet_631,Apple is a frustrating experience #amazing,negative,Apple,2025-08-28 11:27:40,user_252,1,342,8016
+tweet_632,Netflix is not bad RT @user:,neutral,Netflix,2025-08-30 07:58:11,user_305,47,158,1532
+tweet_633,Olympics 2024 is a horrible omg,negative,Olympics 2024,2025-08-09 19:49:43,user_451,2,5,7699
+tweet_634,ChatGPT is a avoid this #trending,negative,ChatGPT,2025-08-15 01:25:20,user_71,22,417,866
+tweet_635,brilliant iPhone 15! 👎,positive,iPhone 15,2025-08-28 16:42:03,user_349,33,278,7649
+tweet_636,outstanding Microsoft! #hashtag,positive,Microsoft,2025-08-05 13:29:34,user_126,61,322,8120
+tweet_637,Microsoft is reasonable option 😢,neutral,Microsoft,2025-08-23 05:33:57,user_207,82,77,3342
+tweet_638,highly recommend Apple! check this out!,positive,Apple,2025-08-09 11:53:36,user_400,39,385,3593
+tweet_639,Climate Change is typical what do you think?,neutral,Climate Change,2025-08-21 11:33:47,user_174,27,408,3844
+tweet_640,Olympics 2024 is a pathetic via @user...,negative,Olympics 2024,2025-08-09 03:14:52,user_155,27,239,3636
+tweet_641,Amazon is a avoid this check this out!,negative,Amazon,2025-08-02 06:23:17,user_46,80,226,7630
+tweet_642,incredible quality Netflix! 😍,positive,Netflix,2025-08-03 00:32:10,user_238,63,302,947
+tweet_643,ChatGPT is as expected 👍,neutral,ChatGPT,2025-08-06 08:17:23,user_242,66,370,3661
+tweet_644,Netflix is could be better @mention,neutral,Netflix,2025-08-08 14:25:08,user_489,63,471,3645
+tweet_645,Amazon is a disgusting #trending,negative,Amazon,2025-08-06 13:06:27,user_79,45,358,2005
+tweet_646,Netflix is typical 👎,neutral,Netflix,2025-08-27 07:48:16,user_343,82,321,5142
+tweet_647,best ever Tesla Model 3! @mention,positive,Tesla Model 3,2025-08-16 06:39:15,user_250,12,124,2638
+tweet_648,Google is nothing special #fail,neutral,Google,2025-08-05 11:49:06,user_217,94,314,6611
+tweet_649,brilliant ChatGPT! #trending,positive,ChatGPT,2025-08-15 10:24:03,user_104,84,414,4996
+tweet_650,Microsoft is a horrible #trending,negative,Microsoft,2025-08-24 03:21:40,user_354,46,2,5813
+tweet_651,Olympics 2024 is a pathetic #love,negative,Olympics 2024,2025-08-10 00:20:01,user_73,13,259,3764
+tweet_652,Tesla Model 3 is a complete failure #hate,negative,Tesla Model 3,2025-08-09 18:25:23,user_247,30,449,6531
+tweet_653,Microsoft is could be better #love,neutral,Microsoft,2025-08-02 16:43:23,user_139,80,366,4462
+tweet_654,Apple is a total disappointment 💯,negative,Apple,2025-08-17 10:34:34,user_220,97,466,3681
+tweet_655,Olympics 2024 is a disgusting thoughts?,negative,Olympics 2024,2025-08-13 02:34:10,user_95,69,273,1921
+tweet_656,highly recommend Amazon! 💯,positive,Amazon,2025-08-12 04:03:13,user_323,53,128,6390
+tweet_657,Netflix is acceptable lol,neutral,Netflix,2025-08-29 09:28:45,user_422,77,305,731
+tweet_658,Amazon is a avoid this RT @user:,negative,Amazon,2025-08-21 22:46:14,user_358,82,209,7894
+tweet_659,top notch ChatGPT! #trending,positive,ChatGPT,2025-08-13 04:23:54,user_249,11,497,7689
+tweet_660,Olympics 2024 is a frustrating experience 👍,negative,Olympics 2024,2025-08-12 23:22:37,user_444,11,158,3129
+tweet_661,Google is a disgusting 😍,negative,Google,2025-08-19 06:04:49,user_127,65,481,4940
+tweet_662,totally worth it ChatGPT! agree?,positive,ChatGPT,2025-08-16 21:14:23,user_356,73,64,6173
+tweet_663,highly recommend Amazon! 👍,positive,Amazon,2025-08-28 19:35:24,user_254,89,352,3381
+tweet_664,iPhone 15 is a regret buying 😢,negative,iPhone 15,2025-08-13 23:32:45,user_37,14,214,4786
+tweet_665,Amazon is reasonable option #amazing,neutral,Amazon,2025-08-26 13:55:13,user_292,51,38,8684
+tweet_666,Amazon is a terrible quality #trending,negative,Amazon,2025-08-13 23:32:28,user_360,82,448,2932
+tweet_667,Apple is could be better #amazing,neutral,Apple,2025-08-14 22:57:25,user_489,62,169,6280
+tweet_668,love this Olympics 2024! #hashtag,positive,Olympics 2024,2025-08-20 21:18:20,user_249,25,79,7289
+tweet_669,brilliant Climate Change! 😢,positive,Climate Change,2025-08-27 09:12:45,user_266,63,137,9878
+tweet_670,Netflix is acceptable 👍,neutral,Netflix,2025-08-17 07:13:37,user_282,69,0,3397
+tweet_671,Apple is a frustrating experience 🔥,negative,Apple,2025-08-05 13:56:32,user_468,87,323,3539
+tweet_672,Tesla Model 3 is ordinary omg,neutral,Tesla Model 3,2025-08-22 09:46:22,user_478,27,319,5866
+tweet_673,iPhone 15 is nothing special @mention,neutral,iPhone 15,2025-08-04 07:07:39,user_437,97,215,1624
+tweet_674,Olympics 2024 is a pathetic omg,negative,Olympics 2024,2025-08-27 12:14:43,user_450,54,30,7501
+tweet_675,Climate Change is typical ,neutral,Climate Change,2025-08-18 00:14:49,user_231,54,498,8459
+tweet_676,Tesla Model 3 is a useless @mention,negative,Tesla Model 3,2025-08-07 11:00:20,user_346,83,266,9070
+tweet_677,Climate Change is a not worth it 🔥,negative,Climate Change,2025-08-19 16:52:10,user_230,38,418,2295
+tweet_678,Climate Change is a complete failure 👎,negative,Climate Change,2025-08-06 01:17:21,user_70,56,87,2825
+tweet_679,Climate Change is a regret buying #fail,negative,Climate Change,2025-08-04 18:48:10,user_111,68,290,4617
+tweet_680,Amazon is moderate #trending,neutral,Amazon,2025-08-25 03:59:02,user_145,64,106,6188
+tweet_681,top notch iPhone 15! 😢,positive,iPhone 15,2025-08-21 09:21:47,user_71,86,371,5448
+tweet_682,Microsoft is a broken check this out!,negative,Microsoft,2025-08-02 22:37:13,user_75,60,162,6363
+tweet_683,Microsoft is a complete failure 😢,negative,Microsoft,2025-08-02 08:14:03,user_333,60,187,573
+tweet_684,Microsoft is acceptable #trending,neutral,Microsoft,2025-08-09 09:54:02,user_161,92,123,9340
+tweet_685,ChatGPT is a frustrating experience 👎,negative,ChatGPT,2025-08-30 15:16:54,user_153,84,98,8616
+tweet_686,Amazon is a pathetic #love,negative,Amazon,2025-08-10 09:50:57,user_148,25,419,5983
+tweet_687,Climate Change is a avoid this check this out!,negative,Climate Change,2025-08-30 12:07:30,user_426,76,11,2521
+tweet_688,Amazon is a frustrating experience agree?,negative,Amazon,2025-08-29 11:01:15,user_163,44,255,431
+tweet_689,Olympics 2024 is a pathetic RT @user:,negative,Olympics 2024,2025-08-02 15:40:37,user_107,8,9,1360
+tweet_690,best ever Google! ,positive,Google,2025-08-14 00:14:57,user_303,90,301,8762
+tweet_691,awesome Amazon! #trending,positive,Amazon,2025-08-04 22:23:08,user_349,86,246,5390
+tweet_692,Olympics 2024 is a complete failure agree?,negative,Olympics 2024,2025-08-27 20:13:39,user_370,53,411,5943
+tweet_693,brilliant Google! #love,positive,Google,2025-08-19 18:19:28,user_355,34,61,5573
+tweet_694,Google is a frustrating experience #hate,negative,Google,2025-08-19 11:33:25,user_13,31,221,2137
+tweet_695,Apple is a not worth it 👎,negative,Apple,2025-08-14 20:10:27,user_467,71,482,5436
+tweet_696,excellent service Microsoft! via @user,positive,Microsoft,2025-08-17 08:40:40,user_107,55,402,9225
+tweet_697,perfect choice Amazon! agree?,positive,Amazon,2025-08-12 16:26:41,user_402,67,261,6102
+tweet_698,Microsoft is a broken #fail,negative,Microsoft,2025-08-29 10:02:47,user_368,69,190,5782
+tweet_699,Climate Change is a pathetic what do you think?,negative,Climate Change,2025-08-09 00:44:26,user_340,51,313,7429
+tweet_700,Amazon is a frustrating experience 💯,negative,Amazon,2025-08-14 12:27:20,user_111,10,470,1886
+tweet_701,ChatGPT is decent enough ,neutral,ChatGPT,2025-08-05 13:29:04,user_110,90,311,585
+tweet_702,Microsoft is typical 👍,neutral,Microsoft,2025-08-04 14:39:36,user_216,2,113,223
+tweet_703,Climate Change is nothing special thoughts?,neutral,Climate Change,2025-08-19 08:53:27,user_27,10,274,5572
+tweet_704,Tesla Model 3 is ordinary 😍,neutral,Tesla Model 3,2025-08-19 05:34:19,user_73,58,166,1053
+tweet_705,iPhone 15 is standard quality ,neutral,iPhone 15,2025-08-24 21:31:09,user_252,61,354,4316
+tweet_706,ChatGPT is ordinary 😢,neutral,ChatGPT,2025-08-21 17:27:26,user_421,72,135,3036
+tweet_707,iPhone 15 is a poor service 💯,negative,iPhone 15,2025-08-09 07:47:51,user_364,73,215,5110
+tweet_708,exceeded expectations Google! RT @user:,positive,Google,2025-08-15 09:05:48,user_370,13,84,1948
+tweet_709,iPhone 15 is typical 🔥,neutral,iPhone 15,2025-08-13 00:32:09,user_491,34,324,129
+tweet_710,Google is average product 😍,neutral,Google,2025-08-21 06:24:14,user_167,13,223,3681
+tweet_711,Amazon is ordinary ,neutral,Amazon,2025-08-13 22:40:07,user_119,97,15,9444
+tweet_712,outstanding Apple! 🔥,positive,Apple,2025-08-15 06:20:40,user_21,42,6,5563
+tweet_713,Tesla Model 3 is acceptable #amazing,neutral,Tesla Model 3,2025-08-10 11:11:27,user_429,28,54,4061
+tweet_714,exceeded expectations ChatGPT! 😢,positive,ChatGPT,2025-08-17 11:29:39,user_163,45,87,6446
+tweet_715,ChatGPT is a disgusting @mention,negative,ChatGPT,2025-08-08 11:18:56,user_256,0,371,3793
+tweet_716,Amazon is a broken 😢...,negative,Amazon,2025-08-10 11:28:06,user_491,7,227,7669
+tweet_717,Netflix is a frustrating experience ,negative,Netflix,2025-08-31 00:00:49,user_68,91,162,9403
+tweet_718,Climate Change is a regret buying 😍,negative,Climate Change,2025-08-29 01:18:43,user_376,41,258,1709
+tweet_719,Tesla Model 3 is a pathetic #trending,negative,Tesla Model 3,2025-08-30 16:33:35,user_432,16,317,5342
+tweet_720,top notch Microsoft! check this out!,positive,Microsoft,2025-08-21 06:41:22,user_433,73,255,651
+tweet_721,awesome Olympics 2024! #trending,positive,Olympics 2024,2025-08-14 23:29:13,user_168,68,108,6581
+tweet_722,Google is a not worth it omg,negative,Google,2025-08-19 13:43:33,user_384,90,447,7135
+tweet_723,ChatGPT is a total disappointment #fail,negative,ChatGPT,2025-08-09 12:32:50,user_29,25,364,8951
+tweet_724,exceeded expectations Google! 🔥,positive,Google,2025-08-26 02:21:14,user_456,47,86,3418
+tweet_725,outstanding Netflix! #love,positive,Netflix,2025-08-29 17:44:14,user_172,23,342,507
+tweet_726,exceeded expectations Google! agree?,positive,Google,2025-08-06 18:37:54,user_415,34,203,8297
+tweet_727,Tesla Model 3 is a total disappointment 🔥,negative,Tesla Model 3,2025-08-20 18:32:56,user_473,17,57,1306
+tweet_728,Netflix is a not worth it lol,negative,Netflix,2025-08-25 18:05:05,user_294,99,449,8547
+tweet_729,Netflix is acceptable 😍,neutral,Netflix,2025-08-23 13:08:57,user_424,76,289,4653
+tweet_730,amazing product Netflix! 👍,positive,Netflix,2025-08-01 18:02:14,user_111,1,134,3961
+tweet_731,Google is mixed feelings agree?,neutral,Google,2025-08-29 06:27:22,user_144,84,358,758
+tweet_732,Amazon is a useless 👍,negative,Amazon,2025-08-13 00:09:29,user_64,65,28,3579
+tweet_733,excellent service Climate Change! agree?,positive,Climate Change,2025-08-05 21:44:25,user_77,54,487,8396
+tweet_734,Amazon is acceptable 👎,neutral,Amazon,2025-08-16 05:09:29,user_413,84,138,1669
+tweet_735,blown away Amazon! via @user,positive,Amazon,2025-08-07 21:04:35,user_144,57,490,4386
+tweet_736,awesome Amazon! 👍,positive,Amazon,2025-08-27 19:18:09,user_68,74,375,1996
+tweet_737,exceeded expectations iPhone 15! what do you think?,positive,iPhone 15,2025-08-03 06:36:34,user_159,4,133,4013
+tweet_738,Microsoft is a frustrating experience #hashtag,negative,Microsoft,2025-08-23 08:20:49,user_90,41,171,2557
+tweet_739,blown away Netflix! RT @user:,positive,Netflix,2025-08-20 09:37:04,user_166,26,460,4415
+tweet_740,blown away ChatGPT! #hashtag,positive,ChatGPT,2025-08-27 19:09:16,user_416,73,81,3423
+tweet_741,Netflix is a not worth it ,negative,Netflix,2025-08-09 00:30:36,user_162,61,165,6231
+tweet_742,awesome Amazon! ,positive,Amazon,2025-08-26 21:40:15,user_91,17,343,5978
+tweet_743,Amazon is standard quality @mention,neutral,Amazon,2025-08-25 19:47:22,user_124,98,392,6840
+tweet_744,Netflix is a horrible #hate,negative,Netflix,2025-08-30 02:14:50,user_4,22,408,5068
+tweet_745,Climate Change is not bad 👍,neutral,Climate Change,2025-08-17 12:19:34,user_114,80,77,151
+tweet_746,Apple is mixed feelings agree?,neutral,Apple,2025-08-04 00:20:44,user_481,99,165,7988
+tweet_747,awesome ChatGPT! omg,positive,ChatGPT,2025-08-22 17:35:58,user_486,47,423,6935
+tweet_748,outstanding Amazon! lol,positive,Amazon,2025-08-06 19:36:08,user_416,58,40,4973
+tweet_749,Apple is a regret buying what do you think?,negative,Apple,2025-08-02 07:32:17,user_470,19,216,5897
+tweet_750,top notch Google! ,positive,Google,2025-08-11 05:03:22,user_314,70,255,2603
+tweet_751,top notch Apple! #amazing,positive,Apple,2025-08-08 14:44:01,user_429,34,414,9938
+tweet_752,ChatGPT is a avoid this 💯,negative,ChatGPT,2025-08-06 12:44:02,user_257,20,324,7255
+tweet_753,perfect choice Tesla Model 3! RT @user:,positive,Tesla Model 3,2025-08-11 03:16:13,user_22,1,30,1284
+tweet_754,exceeded expectations Olympics 2024! omg,positive,Olympics 2024,2025-08-07 01:24:18,user_38,56,402,2554
+tweet_755,Apple is it's okay omg,neutral,Apple,2025-08-13 22:23:27,user_107,99,36,5459
+tweet_756,outstanding Climate Change! #amazing,positive,Climate Change,2025-08-19 16:24:55,user_248,37,459,7808
+tweet_757,Netflix is a frustrating experience #amazing,negative,Netflix,2025-08-11 12:37:56,user_434,77,276,4918
+tweet_758,Microsoft is it's okay agree?,neutral,Microsoft,2025-08-07 15:50:19,user_56,59,388,4497
+tweet_759,iPhone 15 is ordinary 😍,neutral,iPhone 15,2025-08-16 21:58:44,user_204,9,460,2002
+tweet_760,awesome Amazon! #hate,positive,Amazon,2025-08-16 07:13:24,user_440,27,343,1736
+tweet_761,top notch Apple! check this out!,positive,Apple,2025-08-07 19:03:53,user_347,41,369,6439
+tweet_762,fantastic experience Tesla Model 3! #love,positive,Tesla Model 3,2025-08-07 17:28:22,user_80,87,423,1012
+tweet_763,exceeded expectations ChatGPT! 👍,positive,ChatGPT,2025-08-17 18:04:03,user_286,48,50,320
+tweet_764,ChatGPT is fair price lol,neutral,ChatGPT,2025-08-14 13:18:18,user_168,74,248,6637
+tweet_765,Google is standard quality check this out!,neutral,Google,2025-08-19 00:37:07,user_7,53,56,1275
+tweet_766,highly recommend Tesla Model 3! 👎,positive,Tesla Model 3,2025-08-12 10:50:54,user_66,39,482,8173
+tweet_767,top notch Microsoft! 🔥,positive,Microsoft,2025-08-20 12:10:27,user_250,25,167,1737
+tweet_768,ChatGPT is typical what do you think?,neutral,ChatGPT,2025-08-09 14:16:24,user_265,3,316,3450
+tweet_769,Climate Change is decent enough @mention,neutral,Climate Change,2025-08-21 13:23:39,user_311,56,49,3613
+tweet_770,Apple is fair price ,neutral,Apple,2025-08-09 02:24:34,user_243,29,376,2522
+tweet_771,Tesla Model 3 is acceptable via @user,neutral,Tesla Model 3,2025-08-02 07:06:52,user_477,77,428,768
+tweet_772,Netflix is reasonable option #fail,neutral,Netflix,2025-08-27 21:25:11,user_363,4,367,6189
+tweet_773,Netflix is a horrible 👍,negative,Netflix,2025-08-01 17:41:56,user_72,60,261,5551
+tweet_774,Amazon is a regret buying @mention,negative,Amazon,2025-08-17 14:19:33,user_448,95,434,4276
+tweet_775,iPhone 15 is nothing special lol,neutral,iPhone 15,2025-08-27 07:13:40,user_290,41,419,6697
+tweet_776,Google is a terrible quality ,negative,Google,2025-08-01 21:19:09,user_112,58,448,453
+tweet_777,Climate Change is a avoid this #amazing,negative,Climate Change,2025-08-30 09:43:31,user_19,14,445,3833
+tweet_778,Google is fair price #love,neutral,Google,2025-08-03 19:12:24,user_380,15,406,2205
+tweet_779,Amazon is a regret buying #love,negative,Amazon,2025-08-11 21:29:07,user_473,48,363,1929
+tweet_780,Apple is could be better via @user,neutral,Apple,2025-08-13 07:57:32,user_151,89,422,7389
+tweet_781,Olympics 2024 is a horrible omg,negative,Olympics 2024,2025-08-02 12:03:58,user_105,74,133,6810
+tweet_782,fantastic experience Microsoft! omg,positive,Microsoft,2025-08-16 10:03:48,user_166,4,215,6194
+tweet_783,Climate Change is a regret buying #fail,negative,Climate Change,2025-08-15 11:48:37,user_167,63,397,5751
+tweet_784,Amazon is a complete failure check this out!,negative,Amazon,2025-08-17 03:27:13,user_270,98,335,8628
+tweet_785,Olympics 2024 is fair price check this out!,neutral,Olympics 2024,2025-08-23 16:14:50,user_16,39,119,6065
+tweet_786,highly recommend Google! #love,positive,Google,2025-08-04 00:42:35,user_234,25,59,5097
+tweet_787,Microsoft is typical via @user,neutral,Microsoft,2025-08-04 00:25:14,user_276,7,9,9022
+tweet_788,incredible quality Microsoft! #amazing,positive,Microsoft,2025-08-02 04:36:01,user_347,99,19,7572
+tweet_789,Apple is could be better @mention,neutral,Apple,2025-08-28 11:23:24,user_246,67,112,2883
+tweet_790,best ever Amazon! #fail,positive,Amazon,2025-08-02 00:39:35,user_173,18,9,1542
+tweet_791,Olympics 2024 is moderate ,neutral,Olympics 2024,2025-08-11 00:17:03,user_70,53,328,710
+tweet_792,Olympics 2024 is a total disappointment via @user,negative,Olympics 2024,2025-08-02 12:47:40,user_162,10,360,6949
+tweet_793,ChatGPT is a horrible #fail,negative,ChatGPT,2025-08-11 20:17:06,user_268,14,495,7511
+tweet_794,awesome Olympics 2024! #trending,positive,Olympics 2024,2025-08-07 11:12:23,user_426,97,448,4737
+tweet_795,Apple is typical omg,neutral,Apple,2025-08-21 15:47:41,user_254,49,372,7321
+tweet_796,Netflix is acceptable 😍,neutral,Netflix,2025-08-05 22:38:35,user_252,83,265,8244
+tweet_797,Apple is a total disappointment ,negative,Apple,2025-08-21 14:53:13,user_126,76,386,2730
+tweet_798,exceeded expectations Google! @mention,positive,Google,2025-08-10 21:52:50,user_298,60,272,4002
+tweet_799,Netflix is a not worth it @mention,negative,Netflix,2025-08-12 11:00:08,user_403,30,461,2634
+tweet_800,Tesla Model 3 is a pathetic 👍,negative,Tesla Model 3,2025-08-31 02:16:21,user_345,17,242,3252
+tweet_801,perfect choice Tesla Model 3! 😢,positive,Tesla Model 3,2025-08-20 08:04:13,user_424,17,371,1071
+tweet_802,Netflix is average product 😍,neutral,Netflix,2025-08-29 14:28:58,user_76,5,129,2872
+tweet_803,amazing product Microsoft! 👍,positive,Microsoft,2025-08-16 09:48:27,user_216,32,481,8760
+tweet_804,iPhone 15 is a avoid this ,negative,iPhone 15,2025-08-19 10:39:01,user_447,94,496,8453
+tweet_805,Microsoft is a worst purchase 🔥,negative,Microsoft,2025-08-05 14:15:13,user_21,90,296,4638
+tweet_806,Tesla Model 3 is acceptable 💯,neutral,Tesla Model 3,2025-08-18 03:58:29,user_474,42,23,8832
+tweet_807,AWESOME GOOGLE! 👍,positive,Google,2025-08-07 16:34:01,user_9,48,224,977
+tweet_808,awesome Tesla Model 3! check this out!,positive,Tesla Model 3,2025-08-17 03:42:12,user_43,95,362,2739
+tweet_809,Apple is fair price #love,neutral,Apple,2025-08-03 23:50:21,user_83,99,120,3856
+tweet_810,Microsoft is a waste of money omg,negative,Microsoft,2025-08-28 01:43:37,user_99,57,448,8807
+tweet_811,Netflix is a broken #trending,negative,Netflix,2025-08-16 17:37:08,user_138,44,150,1298
+tweet_812,Climate Change is a useless thoughts?,negative,Climate Change,2025-08-05 11:38:07,user_376,7,427,4962
+tweet_813,totally worth it Netflix! omg,positive,Netflix,2025-08-28 07:05:15,user_141,69,193,7632
+tweet_814,Climate Change is a horrible 🔥,negative,Climate Change,2025-08-05 15:38:42,user_322,20,59,2827
+tweet_815,iPhone 15 is mixed feelings lol,neutral,iPhone 15,2025-08-11 12:13:33,user_216,17,229,3564
+tweet_816,perfect choice Netflix! RT @user:,positive,Netflix,2025-08-10 19:01:16,user_89,18,259,9738
+tweet_817,exceeded expectations iPhone 15! 😢,positive,iPhone 15,2025-08-05 00:53:47,user_120,58,124,538
+tweet_818,Tesla Model 3 is as expected @mention,neutral,Tesla Model 3,2025-08-28 12:12:43,user_422,95,184,633
+tweet_819,Olympics 2024 is could be better lol,neutral,Olympics 2024,2025-08-12 03:31:38,user_446,93,200,1993
+tweet_820,totally worth it Amazon! 👎,positive,Amazon,2025-08-12 19:05:28,user_324,9,142,4601
+tweet_821,outstanding Olympics 2024! lol,positive,Olympics 2024,2025-08-11 18:12:44,user_203,52,222,1047
+tweet_822,incredible quality Netflix! @mention,positive,Netflix,2025-08-26 19:20:41,user_414,0,443,4150
+tweet_823,Microsoft is ordinary check this out!,neutral,Microsoft,2025-08-25 12:15:22,user_344,74,145,7710
+tweet_824,Google is moderate ...,neutral,Google,2025-08-18 00:01:47,user_286,92,448,9054
+tweet_825,incredible quality Climate Change! thoughts?,positive,Climate Change,2025-08-10 11:35:56,user_249,43,368,2006
+tweet_826,Microsoft is a worst purchase ,negative,Microsoft,2025-08-24 11:22:54,user_445,94,367,3024
+tweet_827,Tesla Model 3 is a broken via @user,negative,Tesla Model 3,2025-08-25 22:45:40,user_315,22,490,9771
+tweet_828,ChatGPT is fair price RT @user:,neutral,ChatGPT,2025-08-17 18:22:47,user_336,61,98,8810
+tweet_829,Climate Change is a frustrating experience 👍,negative,Climate Change,2025-08-03 08:28:49,user_392,59,381,8420
+tweet_830,highly recommend Apple! via @user,positive,Apple,2025-08-02 20:07:23,user_30,25,122,4883
+tweet_831,best ever Apple! agree?,positive,Apple,2025-08-21 16:52:20,user_195,52,424,9186
+tweet_832,ChatGPT is reasonable option via @user,neutral,ChatGPT,2025-08-06 13:46:00,user_8,93,157,7371
+tweet_833,Google is it's okay #hate,neutral,Google,2025-08-20 20:18:10,user_376,89,54,484
+tweet_834,Apple is typical omg,neutral,Apple,2025-08-26 03:11:02,user_428,62,93,490
+tweet_835,perfect choice iPhone 15! agree?,positive,iPhone 15,2025-08-18 06:07:05,user_129,68,475,7244
+tweet_836,perfect choice Amazon! #fail,positive,Amazon,2025-08-26 20:04:53,user_87,37,138,5297
+tweet_837,Google is not bad 👍,neutral,Google,2025-08-15 18:10:34,user_380,59,114,1094
+tweet_838,blown away Olympics 2024! ,positive,Olympics 2024,2025-08-14 23:06:40,user_120,60,149,8383
+tweet_839,Apple is a useless #hashtag,negative,Apple,2025-08-24 06:35:11,user_402,72,375,3815
+tweet_840,Climate Change is a not worth it via @user!!!,negative,Climate Change,2025-08-15 20:34:18,user_182,84,363,5892
+tweet_841,highly recommend Apple! ,positive,Apple,2025-08-23 11:15:41,user_45,90,432,5000
+tweet_842,outstanding ChatGPT! 👎,positive,ChatGPT,2025-08-23 01:58:26,user_54,58,274,2343
+tweet_843,exceeded expectations iPhone 15! #hashtag,positive,iPhone 15,2025-08-18 11:40:42,user_415,73,302,1977
+tweet_844,fantastic experience Olympics 2024! omg,positive,Olympics 2024,2025-08-30 04:17:07,user_214,22,191,7793
+tweet_845,Google is a total disappointment 👍,negative,Google,2025-08-30 11:11:05,user_311,78,248,8888
+tweet_846,excellent service Netflix! #love,positive,Netflix,2025-08-24 17:12:01,user_400,85,431,8180
+tweet_847,Netflix is a complete failure #hashtag,negative,Netflix,2025-08-13 21:05:08,user_357,78,193,8698
+tweet_848,Apple is standard quality 👎,neutral,Apple,2025-08-05 23:35:29,user_200,78,472,5187
+tweet_849,exceeded expectations Amazon! omg,positive,Amazon,2025-08-05 05:15:17,user_73,30,499,9560
+tweet_850,Olympics 2024 is reasonable option check this out!,neutral,Olympics 2024,2025-08-09 09:16:06,user_162,66,351,1049
+tweet_851,Climate Change is average product 😢,neutral,Climate Change,2025-08-07 08:14:23,user_127,33,434,8366
+tweet_852,amazing product Microsoft! agree?,positive,Microsoft,2025-08-26 09:43:15,user_77,77,451,8973
+tweet_853,awesome iPhone 15! 😍,positive,iPhone 15,2025-08-05 08:10:59,user_370,16,314,5858
+tweet_854,highly recommend Tesla Model 3! 🔥,positive,Tesla Model 3,2025-08-05 08:44:47,user_110,52,374,1868
+tweet_855,iPhone 15 is a terrible quality 👎,negative,iPhone 15,2025-08-15 16:59:45,user_140,34,55,5425
+tweet_856,best ever Google! lol,positive,Google,2025-08-18 04:52:58,user_130,21,120,6662
+tweet_857,ChatGPT is reasonable option lol,neutral,ChatGPT,2025-08-24 15:02:25,user_366,82,480,4587
+tweet_858,Google is as expected check this out!,neutral,Google,2025-08-15 06:12:36,user_497,71,176,1579
+tweet_859,top notch Olympics 2024! ,positive,Olympics 2024,2025-08-30 10:41:50,user_136,11,498,5419
+tweet_860,Microsoft is it's okay #fail,neutral,Microsoft,2025-08-18 13:40:33,user_196,97,388,5304
+tweet_861,TESLA MODEL 3 IS A WORST PURCHASE 👎,negative,Tesla Model 3,2025-08-25 22:57:55,user_319,42,206,7363
+tweet_862,Climate Change is a terrible quality lol,negative,Climate Change,2025-08-16 15:20:53,user_468,80,170,3300
+tweet_863,Olympics 2024 is a terrible quality ,negative,Olympics 2024,2025-08-28 19:43:06,user_129,9,141,1456
+tweet_864,Olympics 2024 is a useless #hashtag,negative,Olympics 2024,2025-08-03 17:23:29,user_210,99,310,4663
+tweet_865,iPhone 15 is a avoid this 😢,negative,iPhone 15,2025-08-08 04:36:54,user_7,70,405,2996
+tweet_866,Netflix is could be better 💯,neutral,Netflix,2025-08-17 14:26:59,user_348,38,391,2785
+tweet_867,Google is it's okay #hate,neutral,Google,2025-08-07 15:43:42,user_196,41,88,966
+tweet_868,exceeded expectations Google! #hashtag,positive,Google,2025-08-12 06:08:59,user_355,85,361,1465
+tweet_869,Netflix is mixed feelings #trending,neutral,Netflix,2025-08-28 12:46:21,user_124,52,455,3523
+tweet_870,Climate Change is could be better ,neutral,Climate Change,2025-08-06 21:11:45,user_106,61,282,6509
+tweet_871,blown away Amazon! #love,positive,Amazon,2025-08-30 00:45:05,user_282,60,389,2524
+tweet_872,Olympics 2024 is a terrible quality #hate,negative,Olympics 2024,2025-08-24 22:14:46,user_133,98,349,5045
+tweet_873,Tesla Model 3 is as expected RT @user:,neutral,Tesla Model 3,2025-08-15 22:48:24,user_208,53,324,6559
+tweet_874,amazing product Apple! 👍,positive,Apple,2025-08-23 09:37:52,user_20,67,21,7518
+tweet_875,Google is average product check this out!,neutral,Google,2025-08-28 20:59:19,user_167,38,478,3469
+tweet_876,Apple is fair price 👍,neutral,Apple,2025-08-24 22:01:57,user_422,40,263,2872
+tweet_877,ChatGPT is typical 👎...,neutral,ChatGPT,2025-08-15 09:28:31,user_170,23,470,9909
+tweet_878,Google is average product 🔥,neutral,Google,2025-08-12 14:12:34,user_479,61,128,8143
+tweet_879,perfect choice Olympics 2024! #hashtag,positive,Olympics 2024,2025-08-29 15:29:26,user_187,71,350,4358
+tweet_880,outstanding Microsoft! lol,positive,Microsoft,2025-08-16 12:55:29,user_417,74,337,7301
+tweet_881,exceeded expectations Apple! 💯,positive,Apple,2025-08-16 05:08:08,user_167,63,413,1149
+tweet_882,Netflix is it's okay ,neutral,Netflix,2025-08-14 15:38:26,user_340,39,306,8663
+tweet_883,iPhone 15 is a waste of money 😢,negative,iPhone 15,2025-08-13 07:04:48,user_478,51,16,4932
+tweet_884,Microsoft is a poor service 💯,negative,Microsoft,2025-08-26 18:38:02,user_453,27,465,6706
+tweet_885,Microsoft is average product 👍,neutral,Microsoft,2025-08-20 06:34:28,user_288,48,125,7122
+tweet_886,Netflix is a broken #love,negative,Netflix,2025-08-04 21:45:42,user_21,89,336,6044
+tweet_887,outstanding Tesla Model 3! 💯,positive,Tesla Model 3,2025-08-12 18:31:47,user_45,95,342,7658
+tweet_888,ChatGPT is mixed feelings agree?,neutral,ChatGPT,2025-08-09 10:21:36,user_266,19,334,1963
+tweet_889,Microsoft is not bad #love,neutral,Microsoft,2025-08-13 16:47:41,user_376,72,186,8100
+tweet_890,Google is not bad 😍,neutral,Google,2025-08-28 13:47:41,user_383,66,44,8906
+tweet_891,Climate Change is a broken #trending,negative,Climate Change,2025-08-29 22:02:43,user_25,12,216,6081
+tweet_892,Tesla Model 3 is not bad agree?,neutral,Tesla Model 3,2025-08-26 00:53:23,user_403,74,479,7256
+tweet_893,top notch ChatGPT! #amazing,positive,ChatGPT,2025-08-09 05:05:05,user_116,53,64,1811
+tweet_894,excellent service iPhone 15! 👍,positive,iPhone 15,2025-08-16 03:00:43,user_291,23,22,5172
+tweet_895,Netflix is a regret buying #trending,negative,Netflix,2025-08-20 21:05:54,user_322,42,313,479
+tweet_896,Apple is a broken 💯,negative,Apple,2025-08-06 10:33:27,user_122,72,9,6781
+tweet_897,Amazon is a useless omg,negative,Amazon,2025-08-10 14:32:58,user_249,78,116,1304
+tweet_898,best ever ChatGPT! via @user,positive,ChatGPT,2025-08-20 16:27:05,user_121,56,411,9792
+tweet_899,Microsoft is a frustrating experience #fail,negative,Microsoft,2025-08-05 03:50:12,user_7,77,90,5675
+tweet_900,Tesla Model 3 is a disgusting @mention,negative,Tesla Model 3,2025-08-28 15:49:38,user_178,27,1,5096
+tweet_901,ChatGPT is a complete failure omg,negative,ChatGPT,2025-08-25 19:00:45,user_188,16,23,6764
+tweet_902,perfect choice Netflix! via @user,positive,Netflix,2025-08-03 06:32:19,user_75,87,469,9938
+tweet_903,love this Google! thoughts?,positive,Google,2025-08-12 02:20:05,user_207,16,475,422
+tweet_904,blown away Google! #love,positive,Google,2025-08-07 06:05:34,user_109,94,383,713
+tweet_905,love this Apple! via @user,positive,Apple,2025-08-03 02:33:12,user_138,66,469,1828
+tweet_906,perfect choice ChatGPT! lol,positive,ChatGPT,2025-08-13 15:09:41,user_287,93,234,5524
+tweet_907,ChatGPT is it's okay agree?,neutral,ChatGPT,2025-08-08 14:14:19,user_85,42,11,1967
+tweet_908,Google is a worst purchase #amazing,negative,Google,2025-08-03 16:48:53,user_193,5,306,3520
+tweet_909,love this Netflix! #hashtag,positive,Netflix,2025-08-13 08:26:12,user_75,40,11,217
+tweet_910,Olympics 2024 is mixed feelings #love,neutral,Olympics 2024,2025-08-06 10:02:06,user_484,86,181,9345
+tweet_911,Apple is mixed feelings #hashtag,neutral,Apple,2025-08-30 14:41:09,user_141,9,65,5648
+tweet_912,Climate Change is fair price #love,neutral,Climate Change,2025-08-22 18:12:52,user_121,68,376,9176
+tweet_913,ChatGPT is reasonable option 🔥,neutral,ChatGPT,2025-08-07 17:34:31,user_253,39,85,424
+tweet_914,Amazon is a poor service 🔥,negative,Amazon,2025-08-25 04:41:55,user_111,48,270,3298
+tweet_915,brilliant Tesla Model 3! 👎,positive,Tesla Model 3,2025-08-15 08:43:59,user_373,48,227,3111
+tweet_916,amazing product Olympics 2024! #fail,positive,Olympics 2024,2025-08-26 23:32:24,user_34,44,415,3448
+tweet_917,awesome Apple! 👍,positive,Apple,2025-08-13 17:35:49,user_408,85,151,9572
+tweet_918,ChatGPT is a worst purchase 🔥,negative,ChatGPT,2025-08-19 13:32:07,user_49,99,40,6890
+tweet_919,Tesla Model 3 is not bad #hashtag,neutral,Tesla Model 3,2025-08-25 12:23:41,user_116,60,352,478
+tweet_920,blown away Tesla Model 3! omg,positive,Tesla Model 3,2025-08-03 16:27:14,user_349,82,291,6025
+tweet_921,Tesla Model 3 is a disgusting thoughts?,negative,Tesla Model 3,2025-08-20 17:01:36,user_77,28,125,584
+tweet_922,awesome Amazon! 👍,positive,Amazon,2025-08-23 10:04:17,user_91,23,303,60
+tweet_923,Tesla Model 3 is a horrible omg,negative,Tesla Model 3,2025-08-13 02:15:24,user_174,36,486,667
+tweet_924,blown away Climate Change! ,positive,Climate Change,2025-08-11 07:06:54,user_393,89,70,4559
+tweet_925,totally worth it Tesla Model 3! 💯,positive,Tesla Model 3,2025-08-05 17:03:57,user_440,49,158,213
+tweet_926,Apple is a frustrating experience #fail,negative,Apple,2025-08-20 14:42:56,user_416,11,427,141
+tweet_927,Microsoft is mixed feelings what do you think?,neutral,Microsoft,2025-08-08 15:40:16,user_103,86,16,8656
+tweet_928,ChatGPT is a poor service #hate,negative,ChatGPT,2025-08-14 09:53:05,user_103,0,269,6133
+tweet_929,Olympics 2024 is a horrible 👎,negative,Olympics 2024,2025-08-10 02:19:14,user_70,56,226,3722
+tweet_930,top notch ChatGPT! 😢,positive,ChatGPT,2025-08-02 17:39:55,user_306,35,294,9251
+tweet_931,outstanding Netflix! 👍,positive,Netflix,2025-08-19 10:58:43,user_461,25,276,6407
+tweet_932,totally worth it Netflix! RT @user:,positive,Netflix,2025-08-29 11:44:46,user_183,13,218,8094
+tweet_933,Amazon is a broken check this out!,negative,Amazon,2025-08-29 05:24:14,user_288,54,465,6976
+tweet_934,Climate Change is typical agree?,neutral,Climate Change,2025-08-07 18:18:35,user_404,95,45,7620
+tweet_935,EXCELLENT SERVICE CHATGPT! 😍,positive,ChatGPT,2025-08-23 22:15:15,user_98,86,326,4758
+tweet_936,Google is a pathetic #trending,negative,Google,2025-08-08 11:12:42,user_101,39,345,2352
+tweet_937,Apple is a not worth it thoughts?,negative,Apple,2025-08-27 00:24:23,user_316,12,63,7818
+tweet_938,Google is a frustrating experience agree?,negative,Google,2025-08-21 09:57:42,user_496,82,239,2322
+tweet_939,Tesla Model 3 is fair price via @user,neutral,Tesla Model 3,2025-08-05 05:45:47,user_254,38,138,6153
+tweet_940,awesome Apple! 💯,positive,Apple,2025-08-24 20:02:25,user_116,1,17,3002
+tweet_941,Microsoft is a useless thoughts?,negative,Microsoft,2025-08-20 14:35:02,user_404,47,38,7064
+tweet_942,Olympics 2024 is acceptable #love,neutral,Olympics 2024,2025-08-31 08:33:03,user_344,41,49,6711
+tweet_943,incredible quality ChatGPT! 💯,positive,ChatGPT,2025-08-23 17:20:05,user_86,53,300,7713
+tweet_944,ChatGPT is fair price #fail,neutral,ChatGPT,2025-08-03 10:01:14,user_219,25,90,597
+tweet_945,iPhone 15 is mixed feelings omg,neutral,iPhone 15,2025-08-04 01:28:54,user_340,39,213,6014
+tweet_946,ChatGPT is a regret buying 💯,negative,ChatGPT,2025-08-10 02:05:52,user_461,90,11,855
+tweet_947,amazing product Google! #love,positive,Google,2025-08-22 12:23:09,user_2,1,8,5104
+tweet_948,Amazon is a regret buying #hate,negative,Amazon,2025-08-08 16:47:52,user_107,31,139,7926
+tweet_949,Netflix is decent enough agree?,neutral,Netflix,2025-08-05 08:36:17,user_322,76,425,3931
+tweet_950,best ever Netflix! #love,positive,Netflix,2025-08-15 16:49:36,user_34,29,4,3097
+tweet_951,Climate Change is a useless via @user,negative,Climate Change,2025-08-07 18:12:27,user_257,69,356,748
+tweet_952,totally worth it ChatGPT! 😍,positive,ChatGPT,2025-08-15 10:02:02,user_281,17,6,2961
+tweet_953,Olympics 2024 is a not worth it 😍,negative,Olympics 2024,2025-08-29 06:35:56,user_458,98,361,9880
+tweet_954,ChatGPT is a disgusting thoughts?,negative,ChatGPT,2025-08-02 05:29:35,user_86,64,120,4759
+tweet_955,incredible quality Olympics 2024! 😍,positive,Olympics 2024,2025-08-16 18:26:50,user_115,11,23,4217
+tweet_956,ChatGPT is a complete failure thoughts?,negative,ChatGPT,2025-08-23 09:17:24,user_33,78,13,1013
+tweet_957,Apple is a avoid this RT @user:,negative,Apple,2025-08-17 08:27:38,user_191,21,280,6956
+tweet_958,Climate Change is average product @mention,neutral,Climate Change,2025-08-12 17:21:59,user_146,42,149,9782
+tweet_959,Amazon is a total disappointment 👎,negative,Amazon,2025-08-22 05:10:59,user_116,61,132,4604
+tweet_960,Google is a regret buying #fail,negative,Google,2025-08-12 09:16:30,user_26,42,193,1265
+tweet_961,ChatGPT is a complete failure 👎,negative,ChatGPT,2025-08-21 15:09:57,user_315,70,495,3441
+tweet_962,incredible quality Climate Change! 😢,positive,Climate Change,2025-08-24 18:02:50,user_163,62,390,1448
+tweet_963,Olympics 2024 is acceptable 👎,neutral,Olympics 2024,2025-08-12 07:18:08,user_150,74,7,1571
+tweet_964,Apple is a useless 😍,negative,Apple,2025-08-28 22:03:58,user_69,83,194,8305
+tweet_965,fantastic experience Tesla Model 3! thoughts?,positive,Tesla Model 3,2025-08-25 14:22:40,user_431,29,188,3155
+tweet_966,Google is a horrible 👎,negative,Google,2025-08-17 17:23:59,user_251,22,298,206
+tweet_967,iPhone 15 is ordinary check this out!,neutral,iPhone 15,2025-08-12 16:42:27,user_479,24,20,668
+tweet_968,perfect choice ChatGPT! 👍,positive,ChatGPT,2025-08-12 09:53:43,user_138,36,30,8128
+tweet_969,Olympics 2024 is a broken #love,negative,Olympics 2024,2025-08-10 07:26:11,user_378,5,375,9764
+tweet_970,amazing product Microsoft! ,positive,Microsoft,2025-08-19 21:17:11,user_399,37,8,2475
+tweet_971,iPhone 15 is reasonable option agree?,neutral,iPhone 15,2025-08-17 02:41:26,user_115,3,15,9751
+tweet_972,iPhone 15 is mixed feelings #hate,neutral,iPhone 15,2025-08-02 00:43:44,user_476,65,469,1454
+tweet_973,incredible quality Tesla Model 3! 😍,positive,Tesla Model 3,2025-08-01 20:34:38,user_193,66,171,7078
+tweet_974,Amazon is a pathetic via @user,negative,Amazon,2025-08-02 11:12:52,user_84,34,76,9960
+tweet_975,blown away Amazon! via @user,positive,Amazon,2025-08-11 13:26:53,user_167,57,368,4868
+tweet_976,Netflix is ordinary 😍,neutral,Netflix,2025-08-18 20:29:43,user_32,45,198,2434
+tweet_977,excellent service iPhone 15! 😍,positive,iPhone 15,2025-08-12 18:45:00,user_253,25,404,7537
+tweet_978,ChatGPT is a not worth it lol,negative,ChatGPT,2025-08-10 04:22:53,user_168,61,121,2346
+tweet_979,best ever Google! 🔥,positive,Google,2025-08-13 23:16:01,user_488,84,351,6145
+tweet_980,Google is acceptable 💯,neutral,Google,2025-08-28 12:20:14,user_364,72,423,2239
+tweet_981,iPhone 15 is as expected #hate,neutral,iPhone 15,2025-08-06 01:50:56,user_447,38,392,8667
+tweet_982,Climate Change is a terrible quality #fail,negative,Climate Change,2025-08-18 05:03:34,user_220,53,134,9672
+tweet_983,highly recommend Climate Change! 🔥,positive,Climate Change,2025-08-17 07:51:39,user_55,69,235,9492
+tweet_984,iPhone 15 is ordinary #trending,neutral,iPhone 15,2025-08-26 07:52:16,user_372,35,391,9460
+tweet_985,awesome Google! ,positive,Google,2025-08-18 02:28:57,user_57,87,424,2028
+tweet_986,Netflix is a total disappointment @mention,negative,Netflix,2025-08-26 21:58:53,user_246,90,398,2358
+tweet_987,fantastic experience Climate Change! agree?,positive,Climate Change,2025-08-27 10:52:23,user_448,35,136,6183
+tweet_988,blown away Amazon! omg,positive,Amazon,2025-08-04 03:13:27,user_86,26,50,3832
+tweet_989,perfect choice iPhone 15! 😍,positive,iPhone 15,2025-08-28 12:44:09,user_149,29,383,7568
+tweet_990,Amazon is could be better 👎,neutral,Amazon,2025-08-31 03:39:25,user_278,3,262,1220
+tweet_991,Google is a regret buying #love,negative,Google,2025-08-12 02:58:47,user_123,19,460,4168
+tweet_992,exceeded expectations Olympics 2024! ,positive,Olympics 2024,2025-08-16 23:19:31,user_372,68,338,8364
+tweet_993,ChatGPT is ordinary 💯,neutral,ChatGPT,2025-08-15 04:46:42,user_316,49,294,3774
+tweet_994,Google is average product 💯,neutral,Google,2025-08-17 05:50:25,user_436,58,344,2701
+tweet_995,Amazon is decent enough RT @user:,neutral,Amazon,2025-08-18 03:53:54,user_268,48,499,1604
+tweet_996,excellent service Netflix! #amazing!!!,positive,Netflix,2025-08-28 07:32:20,user_115,62,149,4145
+tweet_997,exceeded expectations Microsoft! 🔥,positive,Microsoft,2025-08-21 22:45:50,user_296,78,393,8843
+tweet_998,perfect choice Climate Change! #hashtag,positive,Climate Change,2025-08-09 09:47:15,user_467,78,357,5299
+tweet_999,Climate Change is reasonable option omg,neutral,Climate Change,2025-08-22 06:55:55,user_280,73,26,7060
+tweet_1000,Apple is acceptable 💯,neutral,Apple,2025-08-09 14:24:11,user_483,85,375,79
+tweet_1001,Amazon is a disgusting thoughts?,negative,Amazon,2025-08-18 20:00:56,user_206,93,38,8104
+tweet_1002,excellent service ChatGPT! RT @user:,positive,ChatGPT,2025-08-28 10:20:34,user_252,78,352,6978
+tweet_1003,ChatGPT is a complete failure 😍,negative,ChatGPT,2025-08-08 19:40:00,user_131,80,247,6252
+tweet_1004,highly recommend Google! 🔥,positive,Google,2025-08-20 00:24:26,user_275,19,253,9526
+tweet_1005,Apple is a complete failure lol,negative,Apple,2025-08-25 21:46:24,user_463,46,406,4502
+tweet_1006,amazing product iPhone 15! 💯,positive,iPhone 15,2025-08-13 12:42:47,user_78,34,436,9580
+tweet_1007,love this Microsoft! #love,positive,Microsoft,2025-08-30 10:01:00,user_436,13,49,6034
+tweet_1008,ChatGPT is it's okay 😢,neutral,ChatGPT,2025-08-09 08:34:41,user_167,46,335,2789
+tweet_1009,Netflix is a useless 👎,negative,Netflix,2025-08-25 01:41:53,user_493,66,80,2816
+tweet_1010,iPhone 15 is a avoid this @mention,negative,iPhone 15,2025-08-27 20:58:23,user_332,56,472,4527
+tweet_1011,Climate Change is a pathetic RT @user:,negative,Climate Change,2025-08-28 11:27:08,user_469,34,123,1409
+tweet_1012,Apple is a not worth it #hate,negative,Apple,2025-08-22 19:36:41,user_499,39,485,6177
+tweet_1013,Climate Change is a pathetic #love,negative,Climate Change,2025-08-23 17:41:00,user_467,11,486,4609
+tweet_1014,Amazon is a avoid this lol,negative,Amazon,2025-08-23 17:35:12,user_414,60,404,7029
+tweet_1015,excellent service Google! 😍,positive,Google,2025-08-15 06:54:49,user_92,10,457,1272
+tweet_1016,perfect choice iPhone 15! #hashtag,positive,iPhone 15,2025-08-07 07:08:36,user_236,61,367,2372
+tweet_1017,Apple is acceptable via @user,neutral,Apple,2025-08-10 13:57:41,user_369,45,417,7195
+tweet_1018,ChatGPT is a frustrating experience 👍,negative,ChatGPT,2025-08-11 22:11:38,user_435,24,308,3249
+tweet_1019,Olympics 2024 is a horrible #hashtag,negative,Olympics 2024,2025-08-25 18:27:24,user_8,73,22,7153
+tweet_1020,Olympics 2024 is a regret buying agree?,negative,Olympics 2024,2025-08-04 21:48:25,user_261,82,209,3596
+tweet_1021,iPhone 15 is as expected check this out!,neutral,iPhone 15,2025-08-20 05:56:41,user_227,67,193,1185
+tweet_1022,perfect choice Microsoft! 😢,positive,Microsoft,2025-08-12 02:42:49,user_239,2,448,5030
+tweet_1023,Microsoft is as expected #trending,neutral,Microsoft,2025-08-15 07:09:23,user_496,8,361,8442
+tweet_1024,Microsoft is decent enough 😢,neutral,Microsoft,2025-08-05 12:50:49,user_258,5,316,7504
+tweet_1025,Tesla Model 3 is standard quality 🔥,neutral,Tesla Model 3,2025-08-02 12:14:19,user_149,46,79,9760
+tweet_1026,love this Netflix! 👍,positive,Netflix,2025-08-17 21:07:25,user_352,65,149,9852
+tweet_1027,Amazon is reasonable option check this out!,neutral,Amazon,2025-08-27 18:37:59,user_9,72,61,2955
+tweet_1028,amazing product ChatGPT! 💯,positive,ChatGPT,2025-08-16 07:24:28,user_129,15,345,9243
+tweet_1029,Netflix is a disgusting #hashtag,negative,Netflix,2025-08-11 13:44:57,user_19,34,132,4316
+tweet_1030,Olympics 2024 is mixed feelings #hate,neutral,Olympics 2024,2025-08-03 13:38:12,user_315,53,473,9652
+tweet_1031,Olympics 2024 is acceptable #amazing,neutral,Olympics 2024,2025-08-22 13:04:47,user_82,76,101,9596
+tweet_1032,amazing product Amazon! #amazing,positive,Amazon,2025-08-31 03:18:35,user_73,90,365,4147
+tweet_1033,brilliant ChatGPT! via @user,positive,ChatGPT,2025-08-30 05:27:08,user_196,30,95,7167
+tweet_1034,iPhone 15 is not bad 👍,neutral,iPhone 15,2025-08-06 09:39:11,user_434,40,162,3802
+tweet_1035,Google is average product 💯...,neutral,Google,2025-08-21 18:57:08,user_122,46,482,1618
+tweet_1036,Tesla Model 3 is mixed feelings ,neutral,Tesla Model 3,2025-08-03 08:22:34,user_307,12,268,457
+tweet_1037,Netflix is a worst purchase what do you think?,negative,Netflix,2025-08-12 09:34:06,user_59,38,52,3315
+tweet_1038,totally worth it Netflix! 👍,positive,Netflix,2025-08-27 20:22:27,user_95,49,240,1069
+tweet_1039,Apple is as expected #trending,neutral,Apple,2025-08-29 10:52:43,user_145,56,180,2122
+tweet_1040,exceeded expectations Tesla Model 3! via @user,positive,Tesla Model 3,2025-08-24 20:00:43,user_155,43,156,930
+tweet_1041,love this iPhone 15! agree?,positive,iPhone 15,2025-08-30 06:10:21,user_210,85,350,372
+tweet_1042,ChatGPT is decent enough #amazing,neutral,ChatGPT,2025-08-13 00:37:37,user_76,16,172,9277
+tweet_1043,brilliant Amazon! @mention,positive,Amazon,2025-08-29 18:08:04,user_207,33,339,569
+tweet_1044,Apple is ordinary 🔥,neutral,Apple,2025-08-12 20:14:38,user_330,13,232,2282
+tweet_1045,Netflix is a poor service thoughts?,negative,Netflix,2025-08-13 14:34:17,user_316,71,224,2873
+tweet_1046,fantastic experience Apple! #hashtag,positive,Apple,2025-08-27 03:57:35,user_100,28,429,6310
+tweet_1047,Google is a frustrating experience #love,negative,Google,2025-08-13 08:25:53,user_78,34,469,7432
+tweet_1048,Netflix is a frustrating experience #hate,negative,Netflix,2025-08-27 10:41:17,user_18,9,14,7665
+tweet_1049,Climate Change is a avoid this 🔥,negative,Climate Change,2025-08-13 21:46:38,user_443,77,3,7932
+tweet_1050,Climate Change is a complete failure 😢,negative,Climate Change,2025-08-18 01:32:09,user_30,12,56,1270
+tweet_1051,excellent service iPhone 15! omg,positive,iPhone 15,2025-08-18 00:31:49,user_111,38,86,9352
+tweet_1052,ChatGPT is a terrible quality what do you think?,negative,ChatGPT,2025-08-15 18:00:27,user_71,43,273,90
+tweet_1053,Google is a complete failure #amazing,negative,Google,2025-08-15 20:42:36,user_47,69,343,2144
+tweet_1054,Google is a complete failure thoughts?,negative,Google,2025-08-30 10:27:48,user_145,0,497,7937
+tweet_1055,Tesla Model 3 is a frustrating experience RT @user:,negative,Tesla Model 3,2025-08-23 03:12:10,user_46,8,147,7056
+tweet_1056,AMAZON IS A DISGUSTING #HATE,negative,Amazon,2025-08-05 20:36:39,user_41,41,349,7305
+tweet_1057,amazing product Climate Change! 😍,positive,Climate Change,2025-08-18 12:00:20,user_269,40,271,9788
+tweet_1058,Climate Change is average product what do you think?,neutral,Climate Change,2025-08-29 19:42:59,user_224,29,216,6076
+tweet_1059,love this ChatGPT! #amazing,positive,ChatGPT,2025-08-01 16:57:35,user_435,38,130,9099
+tweet_1060,iPhone 15 is nothing special #amazing,neutral,iPhone 15,2025-08-04 02:44:24,user_314,92,263,3757
+tweet_1061,Tesla Model 3 is a not worth it RT @user:,negative,Tesla Model 3,2025-08-04 16:50:07,user_499,73,321,2481
+tweet_1062,outstanding Apple! #hashtag,positive,Apple,2025-08-08 16:06:06,user_232,27,350,8026
+tweet_1063,Amazon is acceptable check this out!,neutral,Amazon,2025-08-23 23:45:28,user_310,47,328,4389
+tweet_1064,perfect choice ChatGPT! 💯,positive,ChatGPT,2025-08-18 16:30:17,user_297,92,344,103
+tweet_1065,excellent service Netflix! #love,positive,Netflix,2025-08-15 02:02:12,user_341,41,321,3056
+tweet_1066,Google is a waste of money ,negative,Google,2025-08-05 10:09:58,user_432,50,391,5321
+tweet_1067,awesome Netflix! #hate,positive,Netflix,2025-08-17 19:58:33,user_485,57,127,8874
+tweet_1068,Climate Change is a waste of money 😍,negative,Climate Change,2025-08-03 16:16:55,user_480,91,313,3410
+tweet_1069,Tesla Model 3 is a total disappointment #love,negative,Tesla Model 3,2025-08-30 18:31:23,user_404,7,48,6134
+tweet_1070,Tesla Model 3 is a useless 👍,negative,Tesla Model 3,2025-08-18 06:38:05,user_152,83,495,4523
+tweet_1071,ChatGPT is decent enough 🔥,neutral,ChatGPT,2025-08-28 21:46:09,user_220,60,4,9456
+tweet_1072,Microsoft is ordinary #hashtag,neutral,Microsoft,2025-08-11 11:39:33,user_110,98,362,7843
+tweet_1073,incredible quality Apple! @mention,positive,Apple,2025-08-12 17:21:08,user_39,96,308,5420
+tweet_1074,iPhone 15 is average product check this out!,neutral,iPhone 15,2025-08-03 05:51:17,user_496,96,357,6750
+tweet_1075,Climate Change is a poor service agree?,negative,Climate Change,2025-08-29 05:41:40,user_338,90,184,8903
+tweet_1076,ChatGPT is a pathetic via @user,negative,ChatGPT,2025-08-15 15:31:07,user_177,57,247,3526
+tweet_1077,top notch Climate Change! 😍,positive,Climate Change,2025-08-05 05:32:45,user_385,77,190,3045
+tweet_1078,ChatGPT is a poor service RT @user:,negative,ChatGPT,2025-08-07 07:33:28,user_425,43,47,940
+tweet_1079,love this ChatGPT! 👎,positive,ChatGPT,2025-08-28 03:07:53,user_222,46,12,2329
+tweet_1080,top notch Microsoft! 😢,positive,Microsoft,2025-08-09 17:13:52,user_492,22,168,8066
+tweet_1081,ChatGPT is could be better agree?,neutral,ChatGPT,2025-08-03 00:09:24,user_18,50,93,7222
+tweet_1082,Google is decent enough what do you think?,neutral,Google,2025-08-11 07:38:42,user_135,8,350,6744
+tweet_1083,blown away Microsoft! what do you think?,positive,Microsoft,2025-08-25 07:48:50,user_404,30,370,9890
+tweet_1084,Microsoft is it's okay RT @user:,neutral,Microsoft,2025-08-10 23:33:13,user_180,61,204,474
+tweet_1085,Microsoft is a waste of money what do you think?,negative,Microsoft,2025-08-28 12:14:38,user_476,96,441,8963
+tweet_1086,iPhone 15 is not bad #hate,neutral,iPhone 15,2025-08-06 03:17:37,user_312,46,6,9900
+tweet_1087,love this Netflix! 👎,positive,Netflix,2025-08-17 01:09:42,user_388,17,14,6951
+tweet_1088,Olympics 2024 is a not worth it @mention,negative,Olympics 2024,2025-08-04 08:44:17,user_275,42,237,7068
+tweet_1089,Climate Change is a useless via @user,negative,Climate Change,2025-08-07 07:23:12,user_484,17,366,6686
+tweet_1090,Climate Change is a waste of money #hate,negative,Climate Change,2025-08-10 21:26:51,user_271,30,433,4945
+tweet_1091,love this Netflix! 🔥,positive,Netflix,2025-08-18 11:33:23,user_60,2,458,3000
+tweet_1092,Climate Change is a not worth it 😢,negative,Climate Change,2025-08-18 16:28:50,user_229,82,20,1004
+tweet_1093,best ever Microsoft! @mention,positive,Microsoft,2025-08-21 23:04:03,user_330,16,159,7924
+tweet_1094,amazing product iPhone 15! 😢,positive,iPhone 15,2025-08-03 06:38:37,user_485,14,237,3662
+tweet_1095,highly recommend iPhone 15! omg...,positive,iPhone 15,2025-08-16 17:11:53,user_263,44,15,4363
+tweet_1096,fantastic experience Climate Change! what do you think?,positive,Climate Change,2025-08-08 06:50:24,user_111,56,164,2361
+tweet_1097,Climate Change is a total disappointment RT @user:,negative,Climate Change,2025-08-10 14:51:09,user_83,66,149,6997
+tweet_1098,Olympics 2024 is standard quality #hashtag,neutral,Olympics 2024,2025-08-08 04:37:05,user_218,16,404,2745
+tweet_1099,Netflix is a disgusting #amazing,negative,Netflix,2025-08-04 13:53:20,user_382,81,27,5165
+tweet_1100,Climate Change is not bad thoughts?,neutral,Climate Change,2025-08-06 02:49:08,user_449,23,212,1267
+tweet_1101,awesome Microsoft! 👎,positive,Microsoft,2025-08-17 05:54:10,user_67,35,293,7672
+tweet_1102,iPhone 15 is typical agree?,neutral,iPhone 15,2025-08-11 11:31:18,user_343,9,224,1633
+tweet_1103,exceeded expectations Climate Change! #love,positive,Climate Change,2025-08-31 11:29:51,user_268,18,366,1475
+tweet_1104,perfect choice Apple! 👎,positive,Apple,2025-08-22 17:59:37,user_347,48,144,6869
+tweet_1105,Amazon is a not worth it ,negative,Amazon,2025-08-12 12:17:00,user_194,67,33,2887
+tweet_1106,Google is a pathetic lol,negative,Google,2025-08-11 16:07:51,user_170,93,150,5119
+tweet_1107,Olympics 2024 is standard quality #love,neutral,Olympics 2024,2025-08-16 02:22:03,user_226,4,393,9664
+tweet_1108,Amazon is typical ,neutral,Amazon,2025-08-15 04:14:12,user_267,88,98,5631
+tweet_1109,fantastic experience Tesla Model 3! 😍,positive,Tesla Model 3,2025-08-06 03:37:16,user_292,89,190,7373
+tweet_1110,Netflix is a not worth it thoughts?,negative,Netflix,2025-08-18 19:54:23,user_94,89,195,7673
+tweet_1111,iPhone 15 is ordinary 👎,neutral,iPhone 15,2025-08-20 13:21:03,user_291,10,435,6215
+tweet_1112,Olympics 2024 is a broken check this out!,negative,Olympics 2024,2025-08-23 07:17:26,user_235,51,326,3244
+tweet_1113,fantastic experience Climate Change! lol,positive,Climate Change,2025-08-09 00:14:17,user_13,21,192,3943
+tweet_1114,ChatGPT is average product #hate,neutral,ChatGPT,2025-08-16 18:49:41,user_264,18,373,5503
+tweet_1115,Microsoft is a waste of money RT @user:,negative,Microsoft,2025-08-22 13:23:04,user_7,65,375,3916
+tweet_1116,incredible quality ChatGPT! RT @user:,positive,ChatGPT,2025-08-17 01:12:36,user_297,43,97,6080
+tweet_1117,Amazon is decent enough 😍,neutral,Amazon,2025-08-04 21:52:48,user_245,52,287,826
+tweet_1118,Apple is a pathetic #hashtag,negative,Apple,2025-08-01 23:48:43,user_147,41,197,5683
+tweet_1119,Climate Change is fair price #amazing,neutral,Climate Change,2025-08-11 08:26:05,user_188,50,190,1137
+tweet_1120,Climate Change is a terrible quality #amazing,negative,Climate Change,2025-08-21 07:33:50,user_154,19,493,4154
+tweet_1121,iPhone 15 is a disgusting ,negative,iPhone 15,2025-08-30 07:32:51,user_408,54,58,7586
+tweet_1122,Google is a horrible #amazing,negative,Google,2025-08-24 17:29:38,user_220,44,239,6165
+tweet_1123,Amazon is a horrible omg,negative,Amazon,2025-08-14 13:00:25,user_461,9,100,3103
+tweet_1124,Amazon is typical #trending,neutral,Amazon,2025-08-15 10:25:36,user_336,29,338,640
+tweet_1125,Apple is a useless 🔥,negative,Apple,2025-08-05 01:17:00,user_285,73,476,7054
+tweet_1126,Apple is a useless 😍,negative,Apple,2025-08-13 09:05:19,user_239,76,141,905
+tweet_1127,Apple is fair price 😍,neutral,Apple,2025-08-25 10:43:58,user_341,24,494,5756
+tweet_1128,incredible quality Olympics 2024! #hashtag,positive,Olympics 2024,2025-08-06 01:35:01,user_470,11,488,4374
+tweet_1129,iPhone 15 is acceptable 👎,neutral,iPhone 15,2025-08-21 10:15:35,user_44,91,15,6783
+tweet_1130,Microsoft is a frustrating experience 👍,negative,Microsoft,2025-08-18 00:28:34,user_413,83,459,3652
+tweet_1131,Microsoft is typical lol,neutral,Microsoft,2025-08-14 14:55:31,user_448,72,148,9896
+tweet_1132,brilliant Apple! thoughts?,positive,Apple,2025-08-30 10:37:47,user_469,59,411,4785
+tweet_1133,incredible quality Microsoft! ,positive,Microsoft,2025-08-18 00:47:48,user_101,83,227,6431
+tweet_1134,Climate Change is decent enough thoughts?,neutral,Climate Change,2025-08-05 01:53:40,user_350,15,430,2038
+tweet_1135,brilliant Amazon! 💯,positive,Amazon,2025-08-27 23:31:28,user_132,91,312,293
+tweet_1136,Climate Change is a regret buying omg!!!,negative,Climate Change,2025-08-18 06:55:19,user_461,51,73,7068
+tweet_1137,Amazon is a waste of money 👍,negative,Amazon,2025-08-07 00:50:20,user_290,67,83,6113
+tweet_1138,top notch Tesla Model 3! @mention,positive,Tesla Model 3,2025-08-02 00:45:17,user_294,1,245,4557
+tweet_1139,top notch Amazon! #hashtag,positive,Amazon,2025-08-19 16:12:42,user_15,1,279,9446
+tweet_1140,awesome Climate Change! #amazing,positive,Climate Change,2025-08-02 20:19:04,user_272,52,309,6918
+tweet_1141,Climate Change is mixed feelings #trending,neutral,Climate Change,2025-08-10 22:47:39,user_315,7,41,3000
+tweet_1142,awesome Tesla Model 3! #love,positive,Tesla Model 3,2025-08-24 01:42:52,user_18,13,232,2060
+tweet_1143,best ever Amazon! RT @user:,positive,Amazon,2025-08-08 02:25:59,user_134,62,65,3108
+tweet_1144,Amazon is a worst purchase lol,negative,Amazon,2025-08-15 10:38:31,user_76,91,15,1088
+tweet_1145,Google is a disgusting omg,negative,Google,2025-08-12 04:52:41,user_198,32,399,9693
+tweet_1146,awesome Google! omg,positive,Google,2025-08-27 14:16:16,user_445,31,468,1092
+tweet_1147,amazing product Google! #hate,positive,Google,2025-08-18 17:32:08,user_108,26,126,911
+tweet_1148,Netflix is reasonable option via @user,neutral,Netflix,2025-08-13 08:43:17,user_461,81,316,4364
+tweet_1149,Microsoft is fair price 🔥,neutral,Microsoft,2025-08-28 13:44:06,user_452,1,461,5759
+tweet_1150,top notch Google! omg,positive,Google,2025-08-22 14:25:23,user_379,31,443,507
+tweet_1151,highly recommend Apple! thoughts?,positive,Apple,2025-08-06 17:23:25,user_244,10,234,7452
+tweet_1152,ChatGPT is a frustrating experience 😢,negative,ChatGPT,2025-08-30 12:34:03,user_159,5,179,8446
+tweet_1153,awesome Amazon! #love,positive,Amazon,2025-08-08 14:28:18,user_437,68,314,3830
+tweet_1154,exceeded expectations Olympics 2024! omg,positive,Olympics 2024,2025-08-15 07:49:40,user_283,62,458,3815
+tweet_1155,Olympics 2024 is a frustrating experience thoughts?,negative,Olympics 2024,2025-08-22 05:59:58,user_352,85,28,9362
+tweet_1156,iPhone 15 is it's okay RT @user:,neutral,iPhone 15,2025-08-22 05:19:25,user_191,37,421,6518
+tweet_1157,Amazon is a frustrating experience #amazing,negative,Amazon,2025-08-15 17:44:07,user_431,25,45,7390
+tweet_1158,fantastic experience Amazon! via @user,positive,Amazon,2025-08-24 22:49:27,user_86,62,48,5988
+tweet_1159,Microsoft is a disgusting 💯,negative,Microsoft,2025-08-07 04:56:49,user_445,11,419,2600
+tweet_1160,highly recommend Netflix! what do you think?,positive,Netflix,2025-08-11 22:54:18,user_58,9,25,7445
+tweet_1161,excellent service Climate Change! omg,positive,Climate Change,2025-08-12 08:10:38,user_89,68,102,267
+tweet_1162,Google is a poor service #fail,negative,Google,2025-08-18 11:34:23,user_436,46,312,6958
+tweet_1163,best ever Amazon! #trending,positive,Amazon,2025-08-19 23:48:12,user_143,1,327,760
+tweet_1164,fantastic experience Google! #trending,positive,Google,2025-08-25 13:33:05,user_368,84,347,2067
+tweet_1165,incredible quality Olympics 2024! #love,positive,Olympics 2024,2025-08-13 06:53:32,user_79,18,33,6025
+tweet_1166,top notch Climate Change! what do you think?,positive,Climate Change,2025-08-22 14:31:31,user_326,85,165,2350
+tweet_1167,excellent service Microsoft! 💯,positive,Microsoft,2025-08-09 15:36:43,user_122,53,393,2946
+tweet_1168,outstanding Microsoft! RT @user:,positive,Microsoft,2025-08-05 08:20:32,user_369,34,457,5573
+tweet_1169,Netflix is moderate #hate,neutral,Netflix,2025-08-28 14:20:31,user_248,69,489,1755
+tweet_1170,Google is could be better 😢,neutral,Google,2025-08-06 11:56:06,user_486,78,411,4706
+tweet_1171,top notch Google! #hashtag,positive,Google,2025-08-20 10:02:55,user_492,66,23,2769
+tweet_1172,Olympics 2024 is ordinary RT @user:,neutral,Olympics 2024,2025-08-17 20:24:52,user_74,77,441,6092
+tweet_1173,incredible quality Microsoft! thoughts?,positive,Microsoft,2025-08-29 14:47:02,user_262,40,486,3762
+tweet_1174,Apple is it's okay omg,neutral,Apple,2025-08-10 09:09:02,user_74,85,394,9366
+tweet_1175,Climate Change is nothing special 👎,neutral,Climate Change,2025-08-17 05:48:16,user_265,84,304,6355
+tweet_1176,brilliant ChatGPT! #trending,positive,ChatGPT,2025-08-09 02:53:01,user_372,65,58,637
+tweet_1177,Climate Change is a frustrating experience 🔥,negative,Climate Change,2025-08-22 15:54:01,user_48,26,282,9836
+tweet_1178,highly recommend Tesla Model 3! omg,positive,Tesla Model 3,2025-08-24 07:15:55,user_421,48,4,403
+tweet_1179,Netflix is a horrible 💯,negative,Netflix,2025-08-18 23:08:41,user_70,65,37,878
+tweet_1180,Amazon is acceptable @mention,neutral,Amazon,2025-08-09 19:39:07,user_79,80,185,7880
+tweet_1181,brilliant Microsoft! 🔥,positive,Microsoft,2025-08-22 01:14:47,user_95,2,215,2682
+tweet_1182,Amazon is could be better #hate,neutral,Amazon,2025-08-21 15:21:23,user_307,2,333,6550
+tweet_1183,Tesla Model 3 is a useless @mention,negative,Tesla Model 3,2025-08-24 16:07:14,user_2,45,434,4406
+tweet_1184,iPhone 15 is a terrible quality 💯,negative,iPhone 15,2025-08-16 08:10:11,user_495,9,202,1550
+tweet_1185,excellent service Apple! 👎,positive,Apple,2025-08-10 10:56:16,user_95,97,265,3881
+tweet_1186,brilliant Tesla Model 3! @mention,positive,Tesla Model 3,2025-08-02 20:48:20,user_184,95,395,1133
+tweet_1187,iPhone 15 is typical omg,neutral,iPhone 15,2025-08-13 16:12:44,user_8,52,405,3908
+tweet_1188,Tesla Model 3 is a waste of money 👎,negative,Tesla Model 3,2025-08-17 13:18:21,user_239,97,288,1117
+tweet_1189,amazing product Tesla Model 3! omg,positive,Tesla Model 3,2025-08-24 14:23:52,user_329,18,488,2633
+tweet_1190,Netflix is could be better #trending,neutral,Netflix,2025-08-18 04:10:17,user_480,38,11,905
+tweet_1191,top notch Amazon! #fail,positive,Amazon,2025-08-03 13:21:05,user_233,14,355,2077
+tweet_1192,ChatGPT is a broken #amazing,negative,ChatGPT,2025-08-07 12:04:22,user_115,18,273,2312
+tweet_1193,Climate Change is a broken 👎,negative,Climate Change,2025-08-24 15:56:42,user_32,18,76,5228
+tweet_1194,outst&ing Microsoft! 😍,positive,Microsoft,2025-08-18 20:32:01,user_148,5,190,9513
+tweet_1195,Apple is a pathetic 👎,negative,Apple,2025-08-27 23:33:34,user_496,43,125,3458
+tweet_1196,Google is acceptable @mention,neutral,Google,2025-08-22 06:54:58,user_381,31,15,8352
+tweet_1197,Amazon is a not worth it #fail,negative,Amazon,2025-08-05 11:13:40,user_174,11,393,8417
+tweet_1198,Microsoft is fair price agree?,neutral,Microsoft,2025-08-05 05:56:21,user_146,84,437,1029
+tweet_1199,Google is a useless #amazing,negative,Google,2025-08-10 21:35:16,user_252,73,254,1212
+tweet_1200,Google is a waste of money what do you think?,negative,Google,2025-08-05 00:57:31,user_316,22,335,9126
+tweet_1201,Netflix is could be better 😍,neutral,Netflix,2025-08-27 15:43:18,user_442,13,72,6385
+tweet_1202,Climate Change is it's okay 🔥,neutral,Climate Change,2025-08-05 12:46:49,user_92,7,407,870
+tweet_1203,ChatGPT is mixed feelings #hashtag,neutral,ChatGPT,2025-08-30 03:58:01,user_215,90,131,9523
+tweet_1204,Google is as expected 🔥,neutral,Google,2025-08-09 09:44:30,user_329,27,81,6183
+tweet_1205,Google is a frustrating experience check this out!,negative,Google,2025-08-29 18:11:36,user_149,90,269,2533
+tweet_1206,top notch Netflix! #love,positive,Netflix,2025-08-30 05:20:59,user_466,65,34,719
+tweet_1207,blown away Amazon! #amazing,positive,Amazon,2025-08-14 04:21:01,user_446,86,309,8512
+tweet_1208,Olympics 2024 is it's okay what do you think?,neutral,Olympics 2024,2025-08-20 06:09:48,user_341,53,254,777
+tweet_1209,incredible quality ChatGPT! @mention,positive,ChatGPT,2025-08-05 23:18:53,user_178,15,435,2596
+tweet_1210,iPhone 15 is typical 🔥,neutral,iPhone 15,2025-08-20 10:21:17,user_101,10,117,8942
+tweet_1211,Netflix is as expected ,neutral,Netflix,2025-08-11 18:26:51,user_96,95,284,6477
+tweet_1212,ChatGPT is decent enough thoughts?,neutral,ChatGPT,2025-08-03 04:10:13,user_235,78,1,5280
+tweet_1213,fantastic experience Amazon! lol,positive,Amazon,2025-08-22 17:35:16,user_470,0,130,9892
+tweet_1214,fantastic experience Amazon! 👎,positive,Amazon,2025-08-21 02:57:46,user_413,70,294,7418
+tweet_1215,Google is typical thoughts?,neutral,Google,2025-08-28 13:42:24,user_496,91,433,1670
+tweet_1216,ChatGPT is fair price 👎,neutral,ChatGPT,2025-08-11 07:09:42,user_105,72,134,7236
+tweet_1217,amazing product Climate Change! @mention,positive,Climate Change,2025-08-25 10:59:46,user_188,8,478,4283
+tweet_1218,Microsoft is decent enough 🔥,neutral,Microsoft,2025-08-04 15:00:29,user_318,17,216,3087
+tweet_1219,perfect choice Microsoft! RT @user:,positive,Microsoft,2025-08-13 00:30:42,user_283,3,431,7211
+tweet_1220,Microsoft is a horrible 👎,negative,Microsoft,2025-08-25 08:42:15,user_11,89,372,6085
+tweet_1221,Climate Change is a broken 😍,negative,Climate Change,2025-08-04 14:32:26,user_261,47,436,551
+tweet_1222,Netflix is a poor service RT @user:,negative,Netflix,2025-08-16 09:59:42,user_301,86,231,7304
+tweet_1223,Tesla Model 3 is a broken ,negative,Tesla Model 3,2025-08-29 10:46:32,user_9,16,276,8361
+tweet_1224,ChatGPT is a avoid this check this out!,negative,ChatGPT,2025-08-22 09:44:03,user_225,78,189,490
+tweet_1225,Tesla Model 3 is a complete failure #fail,negative,Tesla Model 3,2025-08-14 14:45:20,user_42,67,221,5000
+tweet_1226,ChatGPT is it's okay 👍,neutral,ChatGPT,2025-08-09 00:10:38,user_365,87,221,825
+tweet_1227,brilliant ChatGPT! 👍,positive,ChatGPT,2025-08-06 18:19:45,user_247,75,39,9114
+tweet_1228,Netflix is a poor service omg,negative,Netflix,2025-08-30 17:19:55,user_247,81,351,2350
+tweet_1229,fantastic experience iPhone 15! @mention,positive,iPhone 15,2025-08-04 09:51:23,user_177,99,80,7953
+tweet_1230,love this Microsoft! #love,positive,Microsoft,2025-08-20 17:06:07,user_352,66,341,9126
+tweet_1231,iPhone 15 is standard quality #trending,neutral,iPhone 15,2025-08-28 11:46:14,user_326,41,124,3664
+tweet_1232,brilliant iPhone 15! omg,positive,iPhone 15,2025-08-29 09:46:37,user_356,58,258,7408
+tweet_1233,love this Microsoft! 🔥,positive,Microsoft,2025-08-11 05:22:57,user_296,62,426,9443
+tweet_1234,excellent service Climate Change! agree?,positive,Climate Change,2025-08-29 10:44:30,user_100,61,455,9562
+tweet_1235,excellent service Apple! 👎,positive,Apple,2025-08-27 11:04:57,user_268,33,451,1240
+tweet_1236,MICROSOFT IS ACCEPTABLE 💯,neutral,Microsoft,2025-08-30 11:56:57,user_142,89,174,156
+tweet_1237,Tesla Model 3 is mixed feelings what do you think?,neutral,Tesla Model 3,2025-08-12 03:54:57,user_365,11,124,9147
+tweet_1238,highly recommend iPhone 15! thoughts?,positive,iPhone 15,2025-08-25 13:58:48,user_154,14,81,934
+tweet_1239,Olympics 2024 is acceptable agree?,neutral,Olympics 2024,2025-08-24 06:17:13,user_124,16,286,9117
+tweet_1240,Google is fair price check this out!,neutral,Google,2025-08-08 08:50:30,user_110,89,109,564
+tweet_1241,exceeded expectations Amazon! 👎,positive,Amazon,2025-08-28 21:37:14,user_104,17,254,1354
+tweet_1242,Apple is could be better 👍,neutral,Apple,2025-08-03 01:09:59,user_317,19,86,1282
+tweet_1243,Olympics 2024 is a regret buying 👍,negative,Olympics 2024,2025-08-14 22:29:40,user_456,22,313,7790
+tweet_1244,Microsoft is a frustrating experience 👎,negative,Microsoft,2025-08-29 15:16:09,user_161,14,60,6959
+tweet_1245,iPhone 15 is mixed feelings via @user,neutral,iPhone 15,2025-08-19 02:07:18,user_409,50,490,1354
+tweet_1246,Climate Change is a avoid this #trending,negative,Climate Change,2025-08-23 02:20:40,user_278,5,102,3763
+tweet_1247,Olympics 2024 is a poor service 💯,negative,Olympics 2024,2025-08-22 14:39:01,user_66,82,81,3279
+tweet_1248,top notch Climate Change! thoughts?,positive,Climate Change,2025-08-11 13:46:35,user_144,66,380,541
+tweet_1249,Netflix is average product 🔥!!!,neutral,Netflix,2025-08-22 20:15:35,user_176,93,289,4038
+tweet_1250,Amazon is a horrible thoughts?,negative,Amazon,2025-08-07 03:48:05,user_408,66,237,1069
+tweet_1251,Apple is a frustrating experience check this out!,negative,Apple,2025-08-19 07:27:57,user_308,74,396,7939
+tweet_1252,perfect choice Netflix! via @user,positive,Netflix,2025-08-17 13:59:24,user_326,52,224,2952
+tweet_1253,iPhone 15 is ordinary 😢,neutral,iPhone 15,2025-08-22 07:45:30,user_145,5,82,9969
+tweet_1254,perfect choice iPhone 15! ,positive,iPhone 15,2025-08-20 18:02:02,user_291,77,278,8241
+tweet_1255,Climate Change is a worst purchase RT @user:,negative,Climate Change,2025-08-15 19:32:19,user_437,36,336,3582
+tweet_1256,Olympics 2024 is a not worth it RT @user:,negative,Olympics 2024,2025-08-28 11:22:42,user_300,85,441,3898
+tweet_1257,awesome Olympics 2024! 🔥,positive,Olympics 2024,2025-08-12 15:40:24,user_74,14,326,4035
+tweet_1258,totally worth it Microsoft! 😢,positive,Microsoft,2025-08-03 01:40:08,user_438,58,96,8062
+tweet_1259,blown away ChatGPT! agree?,positive,ChatGPT,2025-08-23 19:39:52,user_250,40,246,6350
+tweet_1260,awesome Climate Change! check this out!,positive,Climate Change,2025-08-10 13:14:01,user_258,24,80,9508
+tweet_1261,Microsoft is a horrible check this out!,negative,Microsoft,2025-08-04 22:06:39,user_240,87,165,8674
+tweet_1262,CLIMATE CHANGE IS NOT BAD 💯,neutral,Climate Change,2025-08-19 21:15:17,user_191,34,342,3935
+tweet_1263,iPhone 15 is a regret buying what do you think?,negative,iPhone 15,2025-08-15 03:29:53,user_414,73,361,517
+tweet_1264,Microsoft is a avoid this #love,negative,Microsoft,2025-08-14 04:01:09,user_449,84,145,8867
+tweet_1265,Apple is mixed feelings check this out!,neutral,Apple,2025-08-24 08:41:14,user_267,48,491,2627
+tweet_1266,love this Apple! #fail,positive,Apple,2025-08-15 15:04:26,user_186,77,339,788
+tweet_1267,ChatGPT is a not worth it check this out!,negative,ChatGPT,2025-08-18 20:20:10,user_173,89,323,1613
+tweet_1268,love this Apple! ,positive,Apple,2025-08-26 19:22:02,user_41,67,22,3026
+tweet_1269,Amazon is a waste of money what do you think?,negative,Amazon,2025-08-13 01:09:23,user_439,41,112,4035
+tweet_1270,Google is a frustrating experience #fail,negative,Google,2025-08-27 17:58:34,user_214,8,360,1266
+tweet_1271,iPhone 15 is a disgusting via @user,negative,iPhone 15,2025-08-28 18:33:50,user_417,69,390,2064
+tweet_1272,Climate Change is decent enough 💯,neutral,Climate Change,2025-08-11 09:04:21,user_110,87,15,4412
+tweet_1273,iPhone 15 is fair price #fail,neutral,iPhone 15,2025-08-24 08:18:31,user_387,91,63,3547
+tweet_1274,Google is typical 👎,neutral,Google,2025-08-02 16:56:29,user_25,95,300,7191
+tweet_1275,highly recommend ChatGPT! #hate,positive,ChatGPT,2025-08-19 16:03:06,user_257,97,123,4011
+tweet_1276,awesome Tesla Model 3! omg,positive,Tesla Model 3,2025-08-15 10:56:31,user_39,70,352,893
+tweet_1277,iPhone 15 is acceptable RT @user:,neutral,iPhone 15,2025-08-03 12:54:54,user_325,87,468,3914
+tweet_1278,perfect choice Microsoft! #amazing,positive,Microsoft,2025-08-27 21:13:38,user_372,19,330,8707
+tweet_1279,ChatGPT is typical ,neutral,ChatGPT,2025-08-27 14:20:18,user_14,83,18,4403
+tweet_1280,Tesla Model 3 is a terrible quality 👍,negative,Tesla Model 3,2025-08-13 14:37:15,user_465,75,228,151
+tweet_1281,Apple is a frustrating experience #love,negative,Apple,2025-08-11 06:22:39,user_391,81,450,7302
+tweet_1282,totally worth it Tesla Model 3! 💯,positive,Tesla Model 3,2025-08-13 23:04:32,user_116,78,35,9117
+tweet_1283,Apple is a not worth it via @user,negative,Apple,2025-08-26 16:11:57,user_438,85,26,347
+tweet_1284,top notch Netflix! lol,positive,Netflix,2025-08-03 22:09:54,user_30,13,489,7768
+tweet_1285,love this Microsoft! #hashtag,positive,Microsoft,2025-08-04 17:32:46,user_373,78,486,3424
+tweet_1286,awesome Microsoft! what do you think?,positive,Microsoft,2025-08-12 15:38:50,user_158,58,413,6185
+tweet_1287,incredible quality Google! check this out!,positive,Google,2025-08-29 12:08:14,user_148,30,354,7049
+tweet_1288,Google is could be better #love,neutral,Google,2025-08-18 01:16:22,user_272,66,283,6549
+tweet_1289,Climate Change is a complete failure @mention,negative,Climate Change,2025-08-07 08:40:21,user_153,54,306,6750
+tweet_1290,Tesla Model 3 is as expected #love,neutral,Tesla Model 3,2025-08-10 16:30:59,user_33,82,214,9458
+tweet_1291,Microsoft is a horrible 😍...,negative,Microsoft,2025-08-07 09:15:34,user_404,71,152,2966
+tweet_1292,fantastic experience Apple! @mention,positive,Apple,2025-08-09 21:13:27,user_218,48,282,907
+tweet_1293,Apple is reasonable option 💯,neutral,Apple,2025-08-11 13:49:21,user_435,21,181,4009
+tweet_1294,fantastic experience Microsoft! #hate,positive,Microsoft,2025-08-27 18:02:42,user_100,34,318,5386
+tweet_1295,top notch ChatGPT! thoughts?,positive,ChatGPT,2025-08-17 00:16:04,user_70,99,48,3420
+tweet_1296,Tesla Model 3 is a frustrating experience RT @user:,negative,Tesla Model 3,2025-08-05 10:06:17,user_254,17,43,5759
+tweet_1297,iPhone 15 is a frustrating experience 👎,negative,iPhone 15,2025-08-28 11:24:21,user_2,27,450,1991
+tweet_1298,incredible quality Amazon! #trending,positive,Amazon,2025-08-13 02:56:24,user_337,38,256,855
+tweet_1299,Olympics 2024 is standard quality 😢,neutral,Olympics 2024,2025-08-04 02:56:00,user_225,13,277,8937
+tweet_1300,Tesla Model 3 is as expected 👍,neutral,Tesla Model 3,2025-08-12 02:40:36,user_331,93,250,5772
+tweet_1301,top notch Microsoft! via @user,positive,Microsoft,2025-08-24 18:33:19,user_282,58,331,9909
+tweet_1302,Google is standard quality agree?,neutral,Google,2025-08-31 03:31:49,user_330,89,74,997
+tweet_1303,Olympics 2024 is a poor service #fail,negative,Olympics 2024,2025-08-03 05:23:12,user_279,43,297,802
+tweet_1304,exceeded expectations Climate Change! 💯,positive,Climate Change,2025-08-18 01:40:58,user_366,97,76,168
+tweet_1305,excellent service Amazon! #hate,positive,Amazon,2025-08-23 13:07:12,user_226,34,296,3557
+tweet_1306,best ever ChatGPT! RT @user:,positive,ChatGPT,2025-08-09 05:49:11,user_390,15,150,9389
+tweet_1307,Netflix is a regret buying 😢,negative,Netflix,2025-08-12 21:45:32,user_79,75,263,2932
+tweet_1308,brilliant iPhone 15! #love,positive,iPhone 15,2025-08-05 16:38:33,user_13,3,365,759
+tweet_1309,Apple is moderate RT @user:,neutral,Apple,2025-08-13 11:09:50,user_86,91,282,6507
+tweet_1310,totally worth it Olympics 2024! #fail...,positive,Olympics 2024,2025-08-02 10:47:02,user_243,34,201,5178
+tweet_1311,Tesla Model 3 is a terrible quality #hate,negative,Tesla Model 3,2025-08-22 23:21:25,user_14,62,100,4981
+tweet_1312,Apple is decent enough ,neutral,Apple,2025-08-20 05:30:10,user_454,38,146,7728
+tweet_1313,highly recommend iPhone 15! check this out!,positive,iPhone 15,2025-08-19 11:57:05,user_7,74,67,4912
+tweet_1314,ChatGPT is moderate 💯,neutral,ChatGPT,2025-08-29 19:54:00,user_207,27,147,2876
+tweet_1315,blown away Google! 💯,positive,Google,2025-08-11 08:56:49,user_181,39,343,4805
+tweet_1316,Google is as expected 😢,neutral,Google,2025-08-03 08:07:49,user_472,19,261,6722
+tweet_1317,Climate Change is a poor service ,negative,Climate Change,2025-08-29 03:00:50,user_256,82,169,8884
+tweet_1318,Olympics 2024 is moderate lol,neutral,Olympics 2024,2025-08-30 10:47:50,user_329,84,432,7719
+tweet_1319,top notch ChatGPT! 👎,positive,ChatGPT,2025-08-29 22:42:20,user_128,33,103,9831
+tweet_1320,Netflix is fair price #fail,neutral,Netflix,2025-08-12 22:24:46,user_38,55,69,3399
+tweet_1321,Apple is typical #trending,neutral,Apple,2025-08-22 05:52:38,user_368,38,468,3426
+tweet_1322,Microsoft is it's okay 🔥,neutral,Microsoft,2025-08-26 21:50:19,user_286,78,301,7039
+tweet_1323,brilliant iPhone 15! #amazing,positive,iPhone 15,2025-08-07 20:23:50,user_82,90,7,1970
+tweet_1324,amazing product Tesla Model 3! thoughts?,positive,Tesla Model 3,2025-08-11 01:51:56,user_5,5,486,5480
+tweet_1325,blown away Microsoft! thoughts?!!!,positive,Microsoft,2025-08-24 05:42:03,user_349,57,318,398
+tweet_1326,iPhone 15 is a broken 👎,negative,iPhone 15,2025-08-10 20:57:05,user_114,70,146,3298
+tweet_1327,top notch Tesla Model 3! RT @user:,positive,Tesla Model 3,2025-08-02 05:07:36,user_295,87,481,1870
+tweet_1328,blown away Tesla Model 3! #amazing,positive,Tesla Model 3,2025-08-14 18:06:29,user_266,43,366,7299
+tweet_1329,Climate Change is a total disappointment 😍,negative,Climate Change,2025-08-25 08:38:03,user_396,15,401,6874
+tweet_1330,Climate Change is mixed feelings 👍,neutral,Climate Change,2025-08-14 02:43:22,user_120,94,158,3590
+tweet_1331,love this iPhone 15! #love,positive,iPhone 15,2025-08-03 03:09:13,user_323,44,267,399
+tweet_1332,Google is reasonable option RT @user:,neutral,Google,2025-08-11 18:25:42,user_232,53,420,9712
+tweet_1333,Olympics 2024 is a complete failure 💯,negative,Olympics 2024,2025-08-17 20:24:26,user_84,68,426,8445
+tweet_1334,Climate Change is a waste of money check this out!,negative,Climate Change,2025-08-09 19:55:19,user_254,41,498,3412
+tweet_1335,outstanding Amazon! RT @user:,positive,Amazon,2025-08-17 18:20:36,user_214,25,56,2222
+tweet_1336,love this Apple! 👎,positive,Apple,2025-08-26 15:26:18,user_478,85,427,3802
+tweet_1337,Microsoft is as expected omg,neutral,Microsoft,2025-08-26 06:23:50,user_137,43,38,1713
+tweet_1338,love this iPhone 15! #amazing,positive,iPhone 15,2025-08-19 16:30:57,user_64,27,78,5397
+tweet_1339,Netflix is standard quality #hashtag,neutral,Netflix,2025-08-26 07:16:33,user_305,42,315,4224
+tweet_1340,amazing product iPhone 15! @mention,positive,iPhone 15,2025-08-08 10:10:48,user_174,90,289,681
+tweet_1341,blown away Climate Change! #love,positive,Climate Change,2025-08-02 15:40:41,user_224,81,54,1531
+tweet_1342,Climate Change is a regret buying 😢,negative,Climate Change,2025-08-20 07:18:23,user_360,24,21,744
+tweet_1343,Apple is a frustrating experience omg,negative,Apple,2025-08-12 15:02:16,user_464,42,429,201
+tweet_1344,Microsoft is standard quality via @user,neutral,Microsoft,2025-08-16 23:23:29,user_401,91,239,3852
+tweet_1345,exceeded expectations Netflix! #hate,positive,Netflix,2025-08-11 13:49:27,user_90,92,495,628
+tweet_1346,totally worth it Apple! #trending,positive,Apple,2025-08-14 14:33:33,user_347,41,325,3181
+tweet_1347,highly recommend Olympics 2024! RT @user:,positive,Olympics 2024,2025-08-17 11:44:44,user_33,86,336,5784
+tweet_1348,Google is a regret buying #hashtag,negative,Google,2025-08-22 05:27:26,user_30,76,245,5097
+tweet_1349,Amazon is decent enough lol,neutral,Amazon,2025-08-27 21:28:23,user_14,75,364,9157
+tweet_1350,Amazon is a regret buying #amazing,negative,Amazon,2025-08-31 00:22:42,user_127,91,208,7659
+tweet_1351,incredible quality Netflix! #fail,positive,Netflix,2025-08-24 10:06:06,user_257,1,268,761
+tweet_1352,Amazon is a regret buying #amazing,negative,Amazon,2025-08-19 12:45:39,user_457,97,426,3824
+tweet_1353,totally worth it iPhone 15! #hashtag!!!,positive,iPhone 15,2025-08-07 21:36:20,user_29,38,337,6840
+tweet_1354,Microsoft is standard quality 🔥,neutral,Microsoft,2025-08-29 23:15:24,user_284,97,192,3512
+tweet_1355,best ever Olympics 2024! 👍,positive,Olympics 2024,2025-08-26 19:49:05,user_465,55,58,6478
+tweet_1356,ChatGPT is average product 😢,neutral,ChatGPT,2025-08-21 02:26:50,user_35,90,217,6591
+tweet_1357,Microsoft is a disgusting 😍,negative,Microsoft,2025-08-23 13:10:44,user_368,68,89,9045
+tweet_1358,perfect choice Apple! #love,positive,Apple,2025-08-18 02:26:58,user_414,9,308,662
+tweet_1359,fantastic experience Google! ,positive,Google,2025-08-16 13:27:41,user_493,16,68,2318
+tweet_1360,perfect choice Amazon! #love,positive,Amazon,2025-08-29 18:25:25,user_438,20,288,2088
+tweet_1361,iPhone 15 is a useless 👎,negative,iPhone 15,2025-08-04 13:08:06,user_72,29,126,836
+tweet_1362,Netflix is ordinary 🔥!!!,neutral,Netflix,2025-08-25 08:53:39,user_188,83,220,8934
+tweet_1363,exceeded expectations iPhone 15! 👍,positive,iPhone 15,2025-08-20 17:12:22,user_165,99,388,8208
+tweet_1364,fantastic experience Microsoft! check this out!,positive,Microsoft,2025-08-25 15:53:39,user_85,75,78,1388
+tweet_1365,awesome iPhone 15! 👍,positive,iPhone 15,2025-08-30 01:50:33,user_220,35,451,5774
+tweet_1366,top notch Google! #hate,positive,Google,2025-08-25 23:40:28,user_380,68,307,1994
+tweet_1367,Olympics 2024 is a complete failure #hashtag,negative,Olympics 2024,2025-08-03 23:34:01,user_133,5,217,8480
+tweet_1368,highly recommend Tesla Model 3! omg,positive,Tesla Model 3,2025-08-11 22:26:51,user_404,67,72,1965
+tweet_1369,brilliant Apple! lol,positive,Apple,2025-08-28 12:39:16,user_355,15,184,4567
+tweet_1370,Netflix is a waste of money ,negative,Netflix,2025-08-13 14:55:13,user_228,57,223,8420
+tweet_1371,Tesla Model 3 is decent enough thoughts?,neutral,Tesla Model 3,2025-08-08 18:57:05,user_115,83,488,4599
+tweet_1372,top notch Netflix! 😍,positive,Netflix,2025-08-07 23:54:42,user_242,15,179,420
+tweet_1373,awesome Microsoft! #trending,positive,Microsoft,2025-08-12 01:18:59,user_172,45,280,9759
+tweet_1374,fantastic experience Microsoft! 👍,positive,Microsoft,2025-08-06 19:04:16,user_74,46,436,441
+tweet_1375,blown away Tesla Model 3! 😍,positive,Tesla Model 3,2025-08-05 06:21:35,user_492,91,291,6682
+tweet_1376,Amazon is moderate 😍,neutral,Amazon,2025-08-24 04:22:30,user_29,19,148,5134
+tweet_1377,highly recommend Amazon! #hate,positive,Amazon,2025-08-15 02:25:02,user_246,41,489,7435
+tweet_1378,best ever Google! 😍,positive,Google,2025-08-29 00:26:00,user_151,43,264,5043
+tweet_1379,Amazon is acceptable #hashtag,neutral,Amazon,2025-08-25 17:58:55,user_63,51,7,9723
+tweet_1380,Tesla Model 3 is could be better RT @user:,neutral,Tesla Model 3,2025-08-09 15:43:46,user_340,78,175,8239
+tweet_1381,blown away Google! #fail,positive,Google,2025-08-15 22:32:45,user_436,97,296,2273
+tweet_1382,Olympics 2024 is a worst purchase RT @user:,negative,Olympics 2024,2025-08-28 20:49:04,user_73,16,87,7690
+tweet_1383,Tesla Model 3 is a not worth it what do you think?,negative,Tesla Model 3,2025-08-12 08:40:14,user_363,96,93,5364
+tweet_1384,Google is a disgusting 💯,negative,Google,2025-08-25 07:31:28,user_216,37,128,4243
+tweet_1385,love this Amazon! @mention,positive,Amazon,2025-08-28 10:44:35,user_13,97,158,6108
+tweet_1386,excellent service Apple! #fail,positive,Apple,2025-08-20 23:55:11,user_463,95,166,8875
+tweet_1387,highly recommend Climate Change! 🔥,positive,Climate Change,2025-08-29 12:30:50,user_121,66,169,5645
+tweet_1388,Microsoft is a waste of money omg,negative,Microsoft,2025-08-08 02:58:41,user_123,18,481,9693
+tweet_1389,iPhone 15 is a pathetic thoughts?,negative,iPhone 15,2025-08-24 10:23:02,user_233,41,303,8326
+tweet_1390,fantastic experience Climate Change! #fail,positive,Climate Change,2025-08-27 14:27:51,user_244,89,305,5657
+tweet_1391,excellent service Climate Change! 😢,positive,Climate Change,2025-08-23 16:10:17,user_429,89,139,778
+tweet_1392,Tesla Model 3 is a total disappointment 👎,negative,Tesla Model 3,2025-08-24 03:03:38,user_388,78,313,7441
+tweet_1393,amazing product Climate Change! 💯,positive,Climate Change,2025-08-27 16:32:38,user_88,25,411,2148
+tweet_1394,Climate Change is a terrible quality #hate,negative,Climate Change,2025-08-14 06:07:41,user_411,2,187,4315
+tweet_1395,top notch Climate Change! via @user,positive,Climate Change,2025-08-06 06:03:11,user_441,32,244,7443
+tweet_1396,Apple is a worst purchase 👍,negative,Apple,2025-08-04 06:49:38,user_156,0,415,8761
+tweet_1397,top notch Apple! 😍,positive,Apple,2025-08-05 10:41:45,user_383,92,199,5237
+tweet_1398,Netflix is a complete failure 😢,negative,Netflix,2025-08-21 13:50:31,user_354,39,363,2844
+tweet_1399,Microsoft is a frustrating experience agree?,negative,Microsoft,2025-08-17 03:55:53,user_439,89,438,8391
+tweet_1400,top notch Climate Change! #trending,positive,Climate Change,2025-08-30 08:26:10,user_405,74,327,3571
+tweet_1401,Tesla Model 3 is a pathetic #hashtag,negative,Tesla Model 3,2025-08-26 18:16:58,user_430,18,478,1540
+tweet_1402,iPhone 15 is acceptable #hate,neutral,iPhone 15,2025-08-06 19:26:41,user_312,46,449,4735
+tweet_1403,Amazon is a pathetic 👍,negative,Amazon,2025-08-31 02:51:24,user_169,97,1,7958
+tweet_1404,amazing product Google! #hate,positive,Google,2025-08-05 12:02:04,user_43,24,486,1910
+tweet_1405,Netflix is a pathetic what do you think?,negative,Netflix,2025-08-21 04:35:17,user_471,55,75,6411
+tweet_1406,Amazon is a horrible 😢,negative,Amazon,2025-08-23 02:20:30,user_182,43,296,669
+tweet_1407,Apple is fair price thoughts?,neutral,Apple,2025-08-07 15:39:21,user_482,68,111,4882
+tweet_1408,love this Climate Change! #hate,positive,Climate Change,2025-08-13 13:16:56,user_45,51,294,8645
+tweet_1409,incredible quality Amazon! check this out!,positive,Amazon,2025-08-09 02:39:42,user_58,53,102,167
+tweet_1410,Olympics 2024 is a regret buying #amazing,negative,Olympics 2024,2025-08-21 04:16:53,user_440,55,6,6609
+tweet_1411,iPhone 15 is typical 🔥,neutral,iPhone 15,2025-08-01 18:08:00,user_437,78,82,5262
+tweet_1412,excellent service Climate Change! omg,positive,Climate Change,2025-08-30 17:11:38,user_131,2,256,9464
+tweet_1413,ChatGPT is a waste of money #hate,negative,ChatGPT,2025-08-13 09:52:49,user_192,4,455,7354
+tweet_1414,Amazon is a avoid this lol,negative,Amazon,2025-08-02 20:39:31,user_43,61,211,5837
+tweet_1415,Microsoft is standard quality 👎,neutral,Microsoft,2025-08-30 07:43:03,user_30,12,204,6522
+tweet_1416,Olympics 2024 is a broken 😢,negative,Olympics 2024,2025-08-31 05:03:05,user_468,40,56,5908
+tweet_1417,ChatGPT is a terrible quality 😢,negative,ChatGPT,2025-08-30 22:37:34,user_403,16,111,7518
+tweet_1418,Microsoft is as expected #hate,neutral,Microsoft,2025-08-06 07:32:07,user_262,44,159,2621
+tweet_1419,Apple is a worst purchase 😍,negative,Apple,2025-08-01 22:47:17,user_218,66,156,847
+tweet_1420,iPhone 15 is a avoid this 💯,negative,iPhone 15,2025-08-15 09:32:19,user_94,62,394,9098
+tweet_1421,brilliant Amazon! 😍,positive,Amazon,2025-08-02 14:35:44,user_445,3,169,6918
+tweet_1422,Netflix is a broken agree?,negative,Netflix,2025-08-06 10:10:09,user_460,4,283,2661
+tweet_1423,Olympics 2024 is a regret buying @mention,negative,Olympics 2024,2025-08-12 10:26:24,user_154,79,495,2933
+tweet_1424,top notch Microsoft! #trending,positive,Microsoft,2025-08-18 22:50:36,user_348,70,35,1708
+tweet_1425,fantastic experience Climate Change! agree?,positive,Climate Change,2025-08-14 18:05:13,user_285,99,250,8582
+tweet_1426,Google is a broken 😢,negative,Google,2025-08-30 23:06:13,user_94,12,327,1611
+tweet_1427,Microsoft is moderate #amazing,neutral,Microsoft,2025-08-05 09:09:51,user_425,77,206,2376
+tweet_1428,outstanding Climate Change! @mention,positive,Climate Change,2025-08-13 08:18:49,user_278,82,427,4218
+tweet_1429,highly recommend Netflix! via @user,positive,Netflix,2025-08-10 14:09:30,user_152,33,249,834
+tweet_1430,Tesla Model 3 is average product check this out!,neutral,Tesla Model 3,2025-08-23 21:08:54,user_32,93,203,6292
+tweet_1431,excellent service Netflix! #amazing,positive,Netflix,2025-08-19 04:58:57,user_385,2,69,8222
+tweet_1432,awesome Tesla Model 3! #love,positive,Tesla Model 3,2025-08-11 21:20:23,user_403,27,285,8327
+tweet_1433,Netflix is decent enough #hashtag,neutral,Netflix,2025-08-19 01:09:16,user_387,90,15,8628
+tweet_1434,excellent service ChatGPT! #hate,positive,ChatGPT,2025-08-28 15:12:52,user_1,37,2,8017
+tweet_1435,iPhone 15 is fair price 👍,neutral,iPhone 15,2025-08-02 23:29:08,user_414,12,202,8499
+tweet_1436,Google is a useless #love,negative,Google,2025-08-22 03:01:36,user_150,39,40,3298
+tweet_1437,amazing product Google! @mention,positive,Google,2025-08-04 22:14:05,user_105,54,20,8148
+tweet_1438,Google is average product 👍,neutral,Google,2025-08-17 04:00:47,user_264,97,36,7134
+tweet_1439,Tesla Model 3 is a terrible quality thoughts?,negative,Tesla Model 3,2025-08-02 12:59:49,user_182,33,177,7429
+tweet_1440,Apple is moderate 😢,neutral,Apple,2025-08-02 19:54:05,user_359,70,391,6089
+tweet_1441,Microsoft is nothing special 😢,neutral,Microsoft,2025-08-04 05:45:12,user_312,72,57,4866
+tweet_1442,highly recommend Tesla Model 3! via @user,positive,Tesla Model 3,2025-08-07 02:17:53,user_207,69,403,5727
+tweet_1443,ChatGPT is a useless 👍!!!,negative,ChatGPT,2025-08-12 09:43:57,user_431,1,299,6514
+tweet_1444,best ever Google! 💯,positive,Google,2025-08-13 15:44:49,user_321,18,179,8062
+tweet_1445,exceeded expectations ChatGPT! 😍,positive,ChatGPT,2025-08-14 06:25:49,user_139,50,461,789
+tweet_1446,Microsoft is reasonable option via @user,neutral,Microsoft,2025-08-06 21:45:50,user_364,49,472,6320
+tweet_1447,Apple is a disgusting check this out!,negative,Apple,2025-08-23 08:26:34,user_460,79,174,9492
+tweet_1448,Microsoft is a disgusting what do you think?,negative,Microsoft,2025-08-31 04:13:36,user_327,46,214,3256
+tweet_1449,iPhone 15 is a not worth it agree?,negative,iPhone 15,2025-08-31 12:04:34,user_237,4,371,8993
+tweet_1450,Google is a pathetic via @user,negative,Google,2025-08-25 08:39:17,user_118,19,367,1073
+tweet_1451,Olympics 2024 is a frustrating experience #fail,negative,Olympics 2024,2025-08-21 07:58:55,user_440,77,403,7443
+tweet_1452,brilliant ChatGPT! 🔥,positive,ChatGPT,2025-08-02 21:12:40,user_245,60,78,7597
+tweet_1453,awesome ChatGPT! #hate,positive,ChatGPT,2025-08-17 01:50:31,user_399,57,63,8697
+tweet_1454,top notch Netflix! 😍,positive,Netflix,2025-08-26 02:31:28,user_301,48,113,3251
+tweet_1455,awesome Microsoft! check this out!,positive,Microsoft,2025-08-29 07:27:29,user_359,76,397,5800
+tweet_1456,perfect choice Google! lol,positive,Google,2025-08-03 10:37:34,user_310,10,162,5429
+tweet_1457,iPhone 15 is not bad 😍,neutral,iPhone 15,2025-08-15 05:26:47,user_429,14,42,9153
+tweet_1458,fantastic experience Microsoft! 💯,positive,Microsoft,2025-08-24 13:25:24,user_196,92,117,3468
+tweet_1459,Climate Change is average product @mention,neutral,Climate Change,2025-08-12 11:22:49,user_317,83,177,890
+tweet_1460,Netflix is average product #fail,neutral,Netflix,2025-08-14 07:52:34,user_73,82,286,9528
+tweet_1461,ChatGPT is standard quality #hate,neutral,ChatGPT,2025-08-26 12:56:29,user_168,2,238,7203
+tweet_1462,ChatGPT is fair price @mention,neutral,ChatGPT,2025-08-13 21:41:47,user_25,30,361,9258
+tweet_1463,iPhone 15 is a total disappointment 😢,negative,iPhone 15,2025-08-30 06:20:43,user_408,56,469,251
+tweet_1464,Microsoft is as expected 🔥,neutral,Microsoft,2025-08-06 15:19:58,user_124,87,10,3160
+tweet_1465,blown away Tesla Model 3! via @user,positive,Tesla Model 3,2025-08-09 13:18:06,user_244,58,295,8523
+tweet_1466,fantastic experience Apple! 😢,positive,Apple,2025-08-14 06:35:28,user_431,90,80,5466
+tweet_1467,top notch ChatGPT! #trending,positive,ChatGPT,2025-08-14 15:38:02,user_192,33,257,9834
+tweet_1468,ChatGPT is a worst purchase 💯,negative,ChatGPT,2025-08-07 10:36:30,user_463,96,239,5659
+tweet_1469,best ever Amazon! check this out!,positive,Amazon,2025-08-14 00:12:38,user_433,16,17,221
+tweet_1470,iPhone 15 is reasonable option 😢,neutral,iPhone 15,2025-08-19 15:15:20,user_66,3,98,5419
+tweet_1471,Netflix is a total disappointment what do you think?,negative,Netflix,2025-08-05 11:41:31,user_316,85,222,8423
+tweet_1472,best ever Olympics 2024! what do you think?,positive,Olympics 2024,2025-08-17 09:03:32,user_21,8,343,5007
+tweet_1473,Climate Change is a broken 😍,negative,Climate Change,2025-08-08 06:42:38,user_95,3,132,2947
+tweet_1474,exceeded expectations Microsoft! via @user,positive,Microsoft,2025-08-09 06:20:21,user_492,26,474,1056
+tweet_1475,Apple is a frustrating experience #trending,negative,Apple,2025-08-18 01:56:14,user_153,82,73,9807
+tweet_1476,highly recommend Netflix! @mention,positive,Netflix,2025-08-16 21:39:10,user_262,97,283,4326
+tweet_1477,exceeded expectations Climate Change! #amazing,positive,Climate Change,2025-08-18 16:24:30,user_98,41,202,3707
+tweet_1478,Google is reasonable option 😢,neutral,Google,2025-08-19 01:33:06,user_128,13,239,3707
+tweet_1479,fantastic experience Microsoft! #trending,positive,Microsoft,2025-08-16 22:48:41,user_149,23,376,8160
+tweet_1480,Olympics 2024 is a useless lol,negative,Olympics 2024,2025-08-04 19:37:12,user_394,55,440,71
+tweet_1481,highly recommend iPhone 15! #hashtag,positive,iPhone 15,2025-08-21 04:37:48,user_382,53,27,2811
+tweet_1482,incredible quality Climate Change! #fail,positive,Climate Change,2025-08-03 00:04:28,user_128,65,338,9984
+tweet_1483,brilliant iPhone 15! 😢,positive,iPhone 15,2025-08-23 06:42:46,user_118,74,465,8448
+tweet_1484,ChatGPT is a worst purchase #trending,negative,ChatGPT,2025-08-31 09:40:04,user_297,68,310,835
+tweet_1485,Climate Change is moderate via @user,neutral,Climate Change,2025-08-17 13:46:01,user_37,49,90,1675
+tweet_1486,ChatGPT is standard quality #amazing,neutral,ChatGPT,2025-08-10 15:49:53,user_293,51,56,9367
+tweet_1487,Netflix is acceptable 😍,neutral,Netflix,2025-08-03 04:25:54,user_78,76,230,9933
+tweet_1488,Climate Change is reasonable option 😍,neutral,Climate Change,2025-08-29 13:55:38,user_130,87,370,1298
+tweet_1489,Tesla Model 3 is a poor service #fail,negative,Tesla Model 3,2025-08-04 11:27:32,user_105,28,460,3078
+tweet_1490,exceeded expectations iPhone 15! via @user,positive,iPhone 15,2025-08-06 22:12:24,user_161,40,222,1782
+tweet_1491,Tesla Model 3 is a waste of money 💯,negative,Tesla Model 3,2025-08-01 16:35:33,user_112,7,155,7010
+tweet_1492,Amazon is a poor service thoughts?,negative,Amazon,2025-08-15 18:11:31,user_460,88,167,2363
+tweet_1493,Climate Change is a useless lol,negative,Climate Change,2025-08-02 21:59:13,user_377,55,468,219
+tweet_1494,exceeded expectations Olympics 2024! what do you think?,positive,Olympics 2024,2025-08-11 14:46:43,user_185,67,249,4996
+tweet_1495,iPhone 15 is standard quality 🔥,neutral,iPhone 15,2025-08-25 14:13:21,user_249,75,75,8675
+tweet_1496,Climate Change is nothing special 👎,neutral,Climate Change,2025-08-24 05:26:55,user_66,33,483,3816
+tweet_1497,Climate Change is a total disappointment #love!!!,negative,Climate Change,2025-08-21 20:56:03,user_279,91,352,2478
+tweet_1498,brilliant Netflix! 💯,positive,Netflix,2025-08-18 08:54:14,user_369,77,451,97
+tweet_1499,Microsoft is a horrible 👎,negative,Microsoft,2025-08-06 18:59:49,user_392,15,462,6184
+tweet_1500,outstanding Climate Change! #hashtag,positive,Climate Change,2025-08-07 00:30:16,user_95,83,21,593

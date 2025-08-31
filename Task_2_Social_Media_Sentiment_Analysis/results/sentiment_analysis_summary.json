@@ -1,0 +1,40 @@
+{
+  "textblob_sentiment_distribution": {
+    "positive": 0.453,
+    "negative": 0.336,
+    "neutral": 0.211
+  },
+  "vader_sentiment_distribution": {
+    "positive": 0.491,
+    "negative": 0.321,
+    "neutral": 0.188
+  },
+  "ensemble_sentiment_distribution": {
+    "positive": 0.495,
+    "negative": 0.314,
+    "neutral": 0.191
+  },
+  "ml_sentiment_distribution": {
+    "positive": 0.383,
+    "negative": 0.316,
+    "neutral": 0.301
+  },
+  "textblob_stats": {
+    "mean_polarity": 0.099,
+    "std_polarity": 0.537,
+    "mean_subjectivity": 0.574,
+    "min_polarity": -1.0,
+    "max_polarity": 1.0
+  },
+  "vader_stats": {
+    "mean_compound": 0.087,
+    "std_compound": 0.453,
+    "min_compound": -0.822,
+    "max_compound": 0.875
+  },
+  "textblob_vader_agreement": 0.771,
+  "ml_stats": {
+    "mean_confidence": 0.837,
+    "high_confidence_rate": 0.789
+  }
+}

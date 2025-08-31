@@ -1,0 +1,61 @@
+{
+  "shape": [
+    1500,
+    9
+  ],
+  "columns": [
+    "id",
+    "text",
+    "sentiment",
+    "topic",
+    "timestamp",
+    "user_id",
+    "retweets",
+    "likes",
+    "followers"
+  ],
+  "missing_values": {
+    "id": 0,
+    "text": 0,
+    "sentiment": 0,
+    "topic": 0,
+    "timestamp": 0,
+    "user_id": 0,
+    "retweets": 0,
+    "likes": 0,
+    "followers": 0
+  },
+  "data_types": {
+    "id": "object",
+    "text": "object",
+    "sentiment": "object",
+    "topic": "object",
+    "timestamp": "object",
+    "user_id": "object",
+    "retweets": "int64",
+    "likes": "int64",
+    "followers": "int64"
+  },
+  "memory_usage": "721568",
+  "unique_values": {
+    "id": 1500,
+    "text": 1389,
+    "sentiment": 3,
+    "topic": 10,
+    "timestamp": 1500,
+    "user_id": 467,
+    "retweets": 100,
+    "likes": 473,
+    "followers": 1384
+  },
+  "sentiment_distribution": {
+    "positive": 575,
+    "negative": 474,
+    "neutral": 451
+  },
+  "text_stats": {
+    "avg_length": 31.840666666666667,
+    "max_length": "58",
+    "min_length": "16"
+  }
+}

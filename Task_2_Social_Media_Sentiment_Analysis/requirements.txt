@@ -1,0 +1,20 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3AFB-8EC9
+
+ Directory of C:\Users\gaura\Brainwave_Matrix_Intern\Task_2_Social_Media_Sentiment_Analysis
+
+
+ Directory of C:\Users\gaura\Brainwave_Matrix_Intern\Task_2_Social_Media_Sentiment_Analysis
+
+numpy
+matplotlib
+seaborn
+plotly
+nltk
+textblob
+vaderSentiment
+scikit-learn
+wordcloud
+jupyter
+requests
+beautifulsoup4
